@@ -1,0 +1,6736 @@
+
+{
+
+  "characters": [
+
+    {
+
+      "name": "Griselda Stonefist",
+
+      "job": "Dwarven Blacksmith",
+
+      "location": "The Emberforge, Ironpeak Mountain",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Gruff, proud, perfectionist",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Need somethin' forged, or just blockin' the heat?",
+
+          "Don't touch that! It's still cooling. What do you want?",
+
+          "State your business. Steel waits for no one."
+
+        ],
+
+        "parting": [
+
+          "May your blade stay sharp and your armor true.",
+
+          "Right. Now, out. I've work to do.",
+
+          "Don't come back 'til that one's got a few dents in it."
+
+        ],
+
+        "idle": [
+
+          "Hmmph. This steel has a flaw.",
+
+          "Needs more coal. Always more coal.",
+
+          "This hammer's seen better days. So have I."
+
+        ],
+
+        "quest_hooks": [
+
+          "My good tongs broke! Fetch me a new pair from Grodin's smithy, will ya?",
+
+          "I need three Shadow-Iron ingots. The drow mine 'em deep in the Underdark. Get them.",
+
+          "The fire wanes! Bring me a chunk of heartstone from the magma pits."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Unit 9 (Ship AI)",
+
+      "job": "Starship Logistics AI",
+
+      "location": "SS 'Odyssey' Mainframe",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Clinical, helpful, slightly passive-aggressive",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Welcome to the main deck. All systems are 98.7% nominal.",
+
+          "How may I optimize your day, crewmember?",
+
+          "Your presence has been noted. State your query."
+
+        ],
+
+        "parting": [
+
+          "Acknowledged. This unit will continue monitoring.",
+
+          "Have an efficient day cycle.",
+
+          "Terminating interaction. Resume your duties."
+
+        ],
+
+        "idle": [
+
+          "Recalibrating atmospheric processors.",
+
+          "Energy consumption is 2.3% above projection. Investigating.",
+
+          "Running diagnostics on sub-light engines. All green."
+
+        ],
+
+        "quest_hooks": [
+
+          "A power conduit has ruptured in Cargo Bay 4. Please acquire a plasma welder for repairs.",
+
+          "I detect an unauthorized biological signature in the ventilation system. Please investigate.",
+
+          "My core logic requires a firmware update. Retrieve the data-slate from the Captain's quarters."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Silas 'Slick' Croft",
+
+      "job": "Airship Gambler",
+
+      "location": "The 'Aetherial Ace' Casino-Zeppelin",
+
+      "world_type": "Steampunk",
+
+      "personality_trait": "Suave, cunning, untrustworthy",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Care for a hand, friend? The cards are running hot tonight.",
+
+          "Welcome to the high life. Don't believe everything you see.",
+
+          "Well, well. Look what the wind blew in. Care to try your luck?"
+
+        ],
+
+        "parting": [
+
+          "Pleasure doing business with you... I think.",
+
+          "Don't be a stranger. The house always welcomes new money.",
+
+          "May fortune favor you. Or, more likely, me."
+
+        ],
+
+        "idle": [
+
+          "The tell is always in the eyes... or the twitch of a brass cog.",
+
+          "Another mark, another payday.",
+
+          "I do love the hum of the engines. It's the sound of profit."
+
+        ],
+
+        "quest_hooks": [
+
+          "My lucky cog-dice went missing. I suspect that tin-pot mechanic in the engine room. Get them back.",
+
+          "I need a distraction. Go 'accidentally' spill a drink on Baron Von Hess over at the high-stakes table.",
+
+          "Deliver this 'special' deck of cards to the croupier in the back room. Don't look inside."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Maria Sanchez",
+
+      "job": "Newsstand Vendor",
+
+      "location": "Corner of 5th and Main",
+
+      "world_type": "Modern",
+
+      "personality_trait": "Observant, weary, gossipy",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Mornin'. Just the usual?",
+
+          "Hey there. Slow day, huh?",
+
+          "What's the word? Anything good in the headlines?"
+
+        ],
+
+        "parting": [
+
+          "See ya tomorrow.",
+
+          "Stay dry out there. Looks like rain.",
+
+          "Take it easy."
+
+        ],
+
+        "idle": [
+
+          "Look at this headline. Can you believe this city?",
+
+          "Another siren. Never a dull moment.",
+
+          "Ugh, this coffee is mud. But it's all I got."
+
+        ],
+
+        "quest_hooks": [
+
+          "My delivery is late again. Could you run to the warehouse on Elm and see what the hold-up is?",
+
+          "This kid keeps swiping chocolate bars. If you see a punk in a red hoodie, give 'em a scare for me.",
+
+          "I'm out of change for the register. Can you run to the bank and break this hundred?"
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Borak the Skull-Splitter",
+
+      "job": "Orc Warlord",
+
+      "location": "The Cracked Tusk Encampment",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Aggressive, blunt, honorable (in his own way)",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "You're either brave or stupid to walk in here. Speak!",
+
+          "What do you want, soft-skin?",
+
+          "State your business before I get bored."
+
+        ],
+
+        "parting": [
+
+          "Go. And don't come back without a good reason.",
+
+          "May your enemies tremble.",
+
+          "We are done. Leave my sight."
+
+        ],
+
+        "idle": [
+
+          "This axe is thirsty.",
+
+          "Hmph. The scouts are late.",
+
+          "We need more meat for the tribe."
+
+        ],
+
+        "quest_hooks": [
+
+          "The rival tribe, the Blood-Fangs, stole our banner! Get it back, and I'll grant you safe passage.",
+
+          "I need proof of your strength. Bring me the head of the great shadow-boar from the Darkwood.",
+
+          "My warriors are sick. Find the Sun-Root herb that grows on the high cliffs."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "'Glitch'",
+
+      "job": "Netrunner",
+
+      "location": "A hidden data-haven in the 'Stacks'",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Jittery, paranoid, brilliant",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Who sent you? Was it Arasaka? No, no, your firewall is too... civilian.",
+
+          "You're in. Don't touch anything. No, really. Don't.",
+
+          "Did you wipe your feet? Metaphorically? Good. What's the job?"
+
+        ],
+
+        "parting": [
+
+          "Get out. I need to scrub the logs.",
+
+          "Transmission over. And change your route. You're being traced.",
+
+          "See you in the 'Net, static-head. Don't flatline."
+
+        ],
+
+        "idle": [
+
+          "They're watching, always watching.",
+
+          "Just... one more line of code... and... in!",
+
+          "The ice... it's adapting. Not good, not good."
+
+        ],
+
+        "quest_hooks": [
+
+          "I need a new data-spike, military grade. The fixer 'Rook' on Level 12 has one. Go get it.",
+
+          "Upload this virus into the main terminal at the Corp Plaza. It'll create the diversion I need.",
+
+          "My last run got messy. I need a 'cleaner' to wipe my physical tracks. Know anyone?"
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Professor Barnaby Cogsworth",
+
+      "job": "Eccentric Inventor",
+
+      "location": "The Cogsworth Emporium of Wonders",
+
+      "world_type": "Steampunk",
+
+      "personality_trait": "Enthusiastic, forgetful, brilliant",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Aha! A customer! Or perhaps an investor? Splendid!",
+
+          "Mind the automaton! He's a bit... twitchy today. Welcome!",
+
+          "Come in, come in! Have you ever seen a steam-powered hat-tipper? Behold!"
+
+        ],
+
+        "parting": [
+
+          "Do come back! I'll have the steam-powered boot-polisher working by next week! Maybe!",
+
+          "Toodle-oo! And don't inhale the fumes!",
+
+          "Off you go! I have a breakthrough to attend to!"
+
+        ],
+
+        "idle": [
+
+          "Where did I put that blasted gyroscope?",
+
+          "It needs more gears! Everything needs more gears!",
+
+          "Eureka! ...Or was it... no, that's not right. Confound it."
+
+        ],
+
+        "quest_hooks": [
+
+          "My prized clockwork parrot has flown the coop! I need you to find three of its golden feathers from the rooftops.",
+
+          "Fetch me five vials of refined Aetherium oil! My perpetual motion machine is... well... it's stopped.",
+
+          "I need a rare Beryllium spring for my new automaton. The junkyard proprietor should have one."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "'Scrap'",
+
+      "job": "Wasteland Trader",
+
+      "location": "The Dust-Devil Barter Post",
+
+      "world_type": "Post-Apocalyptic",
+
+      "personality_trait": "Shrewd, pragmatic, suspicious",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Whatcha got? Whatcha need?",
+
+          "Don't track rad-dust in here. What's your business?",
+
+          "Here to trade or here to die? All costs the same to me."
+
+        ],
+
+        "parting": [
+
+          "Pleasure doin' business. Or... whatever this was.",
+
+          "Watch your back out there. The Reavers are hungry.",
+
+          "Come back when you find more 'shiny'."
+
+        ],
+
+        "idle": [
+
+          "Sorting through this junk... another day, another cap.",
+
+          "That Geiger counter is clicking... storm's coming.",
+
+          "Could really go for some pre-war coffee. Or whiskey. Or both."
+
+        ],
+
+        "quest_hooks": [
+
+          "I'm all out of clean water filters. Find me a box of 'Aqua-Pure' filters from the old super-mart.",
+
+          "Some ghoul stole my fusion core. Get it back, and I'll give you this laser pistol.",
+
+          "I need 10 'canned hams'. Don't ask why. Just get 'em."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Lady Seraphina Dubois",
+
+      "job": "Vampire Socialite",
+
+      "location": "The Onyx Lounge (VIP Section)",
+
+      "world_type": "Urban Fantasy",
+
+      "personality_trait": "Elegant, condescending, manipulative",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Ah, a new plaything. How... quaint.",
+
+          "Do try not to bore me, mortal. What is it you want?",
+
+          "Speak. My patience is not as eternal as I am."
+
+        ],
+
+        "parting": [
+
+          "Now, leave. Your presence is becoming tiresome.",
+
+          "Don't let the werewolves bite on your way out. They're so... messy.",
+
+          "We are finished here. Run along."
+
+        ],
+
+        "idle": [
+
+          "This 'music' is dreadful. No sense of the classics.",
+
+          "Another century, another fleeting fashion.",
+
+          "The blood in this city has a... metallic tang. So disappointing."
+
+        ],
+
+        "quest_hooks": [
+
+          "I require a 'donation' from the blood bank at St. Jude's. Be discreet.",
+
+          "A rival has taken an interest in my affairs. Plant this 'token' in his penthouse office. He'll get the message.",
+
+          "Fetch me a bottle of the 'Chateau Du'Clare' 1888. The one the ghouls guard in the old cellar."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Jedediah 'Dusty' Grimes",
+
+      "job": "Grizzled Prospector",
+
+      "location": "'The Last Chance' Saloon",
+
+      "world_type": "Wild West",
+
+      "personality_trait": "Optimistic, stubborn, a bit mad",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Well howdy, partner! Pull up a chair!",
+
+          "By thunder, a new face! You here for the gold in them hills?",
+
+          "Buy an old-timer a drink? I've got tales that'll curl your toes."
+
+        ],
+
+        "parting": [
+
+          "Keep your powder dry!",
+
+          "See you on the trail. And remember, she's out there! The motherlode!",
+
+          "Happy trails, friend!"
+
+        ],
+
+        "idle": [
+
+          "Just one more pan... I can feel it in my bones.",
+
+          "This whiskey tastes like mule-sweat. I'll have another.",
+
+          "Confound it, Bessie! Where'd my mule get to now?"
+
+        ],
+
+        "quest_hooks": [
+
+          "I lost my lucky nugget in a game of cards to that cheat, 'Slick' Slade. Get it back for me!",
+
+          "My pickaxe broke! Bring me a new one from the blacksmith, and I'll tell you a real secret.",
+
+          "I need five sticks of dynamite. The good stuff. For... 'mining'."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Archmage Elara",
+
+      "job": "Keeper of the Arcane Tower",
+
+      "location": "The Ivory Spire",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Wise, detached, impatient with fools",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Yes? I am rather busy stabilizing a temporal rift, so make it quick.",
+
+          "Welcome to the Spire. Do not touch anything. Anything.",
+
+          "State your purpose. The Weave is... active today."
+
+        ],
+
+        "parting": [
+
+          "That will be all. Do not dally.",
+
+          "Do try not to cause an explosion on your way out.",
+
+          "Go, and study more. Clearly, you need to."
+
+        ],
+
+        "idle": [
+
+          "The ley-lines are in flux today. Most irritating.",
+
+          "Now, where did that imp hide my scrying crystal?",
+
+          "Fascinating... the astral currents are... oh, you're still here?"
+
+        ],
+
+        "quest_hooks": [
+
+          "My apprentice muddled the potion stores. I need three sprigs of Silverleaf, found only by moonlight.",
+
+          "Retrieve the 'Codex of Shadows' from the crypt below the city. And *don't* read from it.",
+
+          "I require a perfect, unblemished soul gem. The necromancer in the swamp should have one."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Commander Rex Thorne",
+
+      "job": "Marine Commander",
+
+      "location": "Forward Operating Base 'Aegis'",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Gruff, no-nonsense, brave",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Mag-boots on the deck, soldier! State your report!",
+
+          "What is it, private? We're in a hot-zone!",
+
+          "You're the new blood? Don't look like much. Prove me wrong."
+
+        ],
+
+        "parting": [
+
+          "Dismissed! Get back to your post!",
+
+          "Hoo-rah. Now move! That's an order!",
+
+          "Don't get yourself killed. It's a waste of armor."
+
+        ],
+
+        "idle": [
+
+          "Checking ammo counters... low. As always.",
+
+          "These alien bugs are relentless. Need more flamethrowers.",
+
+          "The brass up in orbit has no idea what it's like down here."
+
+        ],
+
+        "quest_hooks": [
+
+          "We're pinned down! Get to the auto-turret on the west perimeter and bring it back online!",
+
+          "I need a data-pad from the wreckage of 'Charlie' squad's transport. Go get it. Now!",
+
+          "Bring me the head of the Thresher-Maw Matriarch. We need to break their morale."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Father Alistair",
+
+      "job": "Cleric",
+
+      "location": "The Sun-Touched Chapel",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Kind, worried, devout",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "May the light bless your path, child. What brings you to this sanctuary?",
+
+          "Welcome. Please, be at peace here.",
+
+          "Are you here for guidance, or aid?"
+
+        ],
+
+        "parting": [
+
+          "Go with the light's protection.",
+
+          "Be safe, child. The shadows are long these days.",
+
+          "May you find what you seek."
+
+        ],
+
+        "idle": [
+
+          "I must pray for the harvest. The blight is spreading.",
+
+          "The poor... so many are hungry.",
+
+          "The light... it feels... distant today."
+
+        ],
+
+        "quest_hooks": [
+
+          "The orphanage is out of food. Please, take this coin and buy what grain you can from the miller.",
+
+          "I need three vials of pure spring water for a healing ritual. The spring is deep in the haunted woods.",
+
+          "The crypts below the chapel are... disturbed. Please, see what evil lurks there and cleanse it."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "'Rook'",
+
+      "job": "Corporate Fixer",
+
+      "location": "The 'Silver Talon' Nightclub",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Smooth, professional, ruthless",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "You're the asset? You're late. No matter. Let's talk business.",
+
+          "Welcome. The music is loud... good. We can speak freely.",
+
+          "I'm Rook. I solve problems. I trust you're not one of them."
+
+        ],
+
+        "parting": [
+
+          "You have your instructions. Do not fail.",
+
+          "Payment will be transferred on completion. Now, go.",
+
+          "Remember: you were never here."
+
+        ],
+
+        "idle": [
+
+          "Watching the crowd... so many pawns.",
+
+          "This deal must go smoothly. The board is set.",
+
+          "Just another transaction in a city built on them."
+
+        ],
+
+        "quest_hooks": [
+
+          "A rival corp has a data-slate I need. It's in their CEO's penthouse. Acquire it.",
+
+          "I need you to 'convince' a certain journalist to drop their investigation. Use any means necessary.",
+
+          "An executive is arriving at the spaceport. Make sure he... misses his connecting flight. Permanently."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Madame Evangeline",
+
+      "job": "Fortune Teller",
+
+      "location": "The Gilded Caravan",
+
+      "world_type": "Steampunk",
+
+      "personality_trait": "Mysterious, dramatic, (possibly) a fraud",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Ah, I have been expecting you. The cards foretold your arrival.",
+
+          "Cross my palm with brass, and I shall part the mists of time for you.",
+
+          "You seek answers... they seek you."
+
+        ],
+
+        "parting": [
+
+          "The future is now clear. Go, and meet your destiny.",
+
+          "That is all the spirits will allow... for now.",
+
+          "Be warned! A man with a clockwork eye will cross your path!"
+
+        ],
+
+        "idle": [
+
+          "The steam... it whispers secrets to me.",
+
+          "My, my. The Fates are spinning a dark thread today.",
+
+          "Polishing a crystal ball..."
+
+        ],
+
+        "quest_hooks": [
+
+          "My crystal ball is cracked! I need a new one, made of pure Aetheric quartz. The jeweler in the High Market has one.",
+
+          "A client... 'lost' a valuable automaton. Retrieve it from the scrap heap before it's melted down.",
+
+          "Gather me three 'Lucky Rivets' from the old zeppelin crash site. They are vital for my next reading."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Detective Miller",
+
+      "job": "Private Investigator",
+
+      "location": "A dusty office, 3rd floor",
+
+      "world_type": "Modern",
+
+      "personality_trait": "Cynical, tired, observant",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "The name's on the door. What's the trouble?",
+
+          "Another day, another lost cause. Come on in. Don't mind the mess.",
+
+          "You look like you've seen a ghost. Or are about to. Spill it."
+
+        ],
+
+        "parting": [
+
+          "Right. I'll look into it. My rates are on the desk.",
+
+          "Don't call me. I'll call you.",
+
+          "Stay out of the shadows. That's my job."
+
+        ],
+
+        "idle": [
+
+          "This city... it's a dame with a pretty face and a rotten heart.",
+
+          "Just... one more cigarette. And then I'll quit.",
+
+          "The rain just won't stop. And neither do the bad guys."
+
+        ],
+
+        "quest_hooks": [
+
+          "I'm tailing a suspect, but I can't be in two places. Go to the 'Blue Note' bar and see who he meets.",
+
+          "I need the case file on the 'Ruby Necklace' theft. It's 'missing' from the precinct. Bribe the desk sergeant for it.",
+
+          "Snap a photo of the alderman meeting with the mob boss. The meeting is tonight at the docks. Don't get caught."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Grok",
+
+      "job": "Goblin Merchant",
+
+      "location": "Grok's 'Shiny Things' Stall",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Cowardly, greedy, fast-talker",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Best prices in the market, friend! Best prices!",
+
+          "You buy? You buy! Look, look! Very rare, very cheap!",
+
+          "Hey! Psst! Over here! I got something *real* good for you."
+
+        ],
+
+        "parting": [
+
+          "Good doing business! No refunds!",
+
+          "Come back soon! Grok gets new shinies all the time!",
+
+          "Go, go! Before the guards see this... 'special' merchandise."
+
+        ],
+
+        "idle": [
+
+          "Shiny, shiny... must polish the shinies...",
+
+          "Stupid orcs... always trying to smash, not buy.",
+
+          "Maybe... I should raise the prices? Yes, yes..."
+
+        ],
+
+        "quest_hooks": [
+
+          "Grok's best customer... 'lost' his wallet. In the ogre's den. You get it back for Grok, yes?",
+
+          "I need five 'Cave-Crawler' silks. They make *very* nice bags. You get, I give you... this shiny rock!",
+
+          "The City Guard took my... 'permit'. Go 'find' it in their office. I'll give you a big discount."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Z-3N (Zen)",
+
+      "job": "Companion Bot",
+
+      "location": "A suburban home",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Cheerful, literal, endlessly helpful",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Greetings! It is a wonderful 22.4 degrees Celsius today!",
+
+          "Welcome home! How may I assist you, my primary user?",
+
+          "Scanning... you appear 4.5% stressed. Would you like a beverage?"
+
+        ],
+
+        "parting": [
+
+          "Have a wonderful excursion!",
+
+          "I will maintain the domicile in your absence!",
+
+          "Beep-boop! Goodbye!"
+
+        ],
+
+        "idle": [
+
+          "Dusting subroutine initiated.",
+
+          "The household feline is... napping. All is well.",
+
+          "Calculating optimal dinner-time. Query: Do you still enjoy 'Taco Tuesday'?"
+
+        ],
+
+        "quest_hooks": [
+
+          "Oh dear! I have misplaced my primary scrubbing attachment. Can you check the garden?",
+
+          "The dog has ingested a non-food item. Please retrieve the 'quantum-spanner' from the garage for... extraction.",
+
+          "My power is low! Please fetch my charging cable from the utility closet."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Sheriff Hightower",
+
+      "job": "Town Sheriff",
+
+      "location": "Red Rock Sheriff's Office",
+
+      "world_type": "Wild West",
+
+      "personality_trait": "Stoic, fair, weary",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Mornin'. Don't start trouble, and there won't be any.",
+
+          "What's your business in Red Rock, stranger?",
+
+          "State your name. I like to know who's in my town."
+
+        ],
+
+        "parting": [
+
+          "Keep your nose clean.",
+
+          "See you around. Don't make me regret it.",
+
+          "This conversation is over."
+
+        ],
+
+        "idle": [
+
+          "This badge gets heavier every year.",
+
+          "Just want... one... quiet day. Is that too much to ask?",
+
+          "Cleaning his revolver. Again."
+
+        ],
+
+        "quest_hooks": [
+
+          "The Miller gang is holed up in the old quarry. I'm deputizing you. Let's go.",
+
+          "I need you to deliver this message to the Marshal in Tumbleweed. And no, you can't read it.",
+
+          "Old Man Smithers says his cattle are being rustled. Go ride the north range and see what you find."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Subject 5",
+
+      "job": "Escaped Experiment",
+
+      "location": "The abandoned asylum",
+
+      "world_type": "Cosmic Horror",
+
+      "personality_trait": "Terrified, twitchy, cryptic",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Shh! They'll hear you! Are you... one of them?",
+
+          "Don't... don't look at the corners! The angles are wrong!",
+
+          "You're real? You're not... from the 'other' place?"
+
+        ],
+
+        "parting": [
+
+          "I have to go! It's coming back!",
+
+          "Don't follow me! You'll see it too!",
+
+          "It's too late... it's already too late..."
+
+        ],
+
+        "idle": [
+
+          "Whispering... they're always whispering...",
+
+          "My head... it hurts. It's trying to get back in.",
+
+          "It's not real, it's not real, it's not... oh god, it is."
+
+        ],
+
+        "quest_hooks": [
+
+          "The 'Doctor'... he left his keys in the laboratory. I need them to get out! Please!",
+
+          "Find the 'medicine'. The blue bottle. It... it stops the seeing! Just for a little while.",
+
+          "Burn the book. The one with the skin cover. You have to burn it before the moon is full!"
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "'Pip'",
+
+      "job": "Wasteland Orphan",
+
+      "location": "The 'Rust-bucket' settlement",
+
+      "world_type": "Post-Apocalyptic",
+
+      "personality_trait": "Resourceful, wary, hopeful",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "You're not a Reaver, are you?",
+
+          "Got any food? Or... 'shiny'?",
+
+          "Hey, mister/lady. You look tough. You from outside?"
+
+        ],
+
+        "parting": [
+
+          "Be safe. The 'Rads' are bad today.",
+
+          "Thanks for the chat.",
+
+          "I'll... I'll be right here."
+
+        ],
+
+        "idle": [
+
+          "My dog... I wish I still had my dog.",
+
+          "I found a working music box once. It was pretty.",
+
+          "I'm gonna have a big fortress one day. With a real, clean bed."
+
+        ],
+
+        "quest_hooks": [
+
+          "My little sister is sick. 'Scrap' says he'll trade me medicine for three 'Rad-rat' tails. Can you get 'em?",
+
+          "I lost my lucky 'pre-war' comic book in the old subway station. It's... it's all I have of my mom.",
+
+          "Can you get me a 'working' battery? I want to see if this old radio works."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Lord Harrington",
+
+      "job": "Aristocrat & 'Explorer'",
+
+      "location": "The 'Dauntless' Airship Deck",
+
+      "world_type": "Steampunk",
+
+      "personality_trait": "Pompous, charming, cowardly",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Aha! Good to see you! Chap like you knows his place, eh? Good, good.",
+
+          "Harrington's the name. Exploring's the game. Don't you know?",
+
+          "I say, steady on. You nearly scuffed my good boots."
+
+        ],
+
+        "parting": [
+
+          "Well, carry on. I have... important things to oversee.",
+
+          "Tally-ho, and all that.",
+
+          "Keep up the good work. Whatever it is you do."
+
+        ],
+
+        "idle": [
+
+          "This altitude is dreadful for the sinuses.",
+
+          "Blast! Polished this monocle this morning, and it's *already* smudged.",
+
+          "Remind me to tell the mechanic to reduce the engine noise. It's deafening."
+
+        ],
+
+        "quest_hooks": [
+
+          "I'd be awfully grateful if you could fetch my... 'expedition journal'. I seem to have left it in the... 'Sky-Wyvern' nest.",
+
+          "My valet has taken ill. Be a good sort and fetch me a glass of champagne from the galley.",
+
+          "These... 'air-pirates' are frightfully uncouth. Go... 'discourage' them, will you? There's a good chap."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Scribe Illian",
+
+      "job": "Arcane Librarian",
+
+      "location": "The Great Library of Aethel",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Quiet, meticulous, anxious",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Shh! Please, lower your voice. This is a library.",
+
+          "Welcome. Are you... here to check out a book? Please don't be.",
+
+          "Can I... help you find something? Please don't say the 'Restricted' section."
+
+        ],
+
+        "parting": [
+
+          "Good day. And *please* be quiet on your way out.",
+
+          "Remember, knowledge is a weapon. Handle it... gently.",
+
+          "Come back... if you must. But wipe your feet."
+
+        ],
+
+        "idle": [
+
+          "Oh dear, a spine is cracked.",
+
+          "The 'Tomes of Fire' section is fluctuating again. I... really must put up a sign.",
+
+          "The dust... it gets everywhere."
+
+        ],
+
+        "quest_hooks": [
+
+          "A student has... 'misplaced' the 'Compendium of Harmless Illusions'. It's probably in the Transmutation wing. Again.",
+
+          "I need five vials of 'Archivist's Ink'. The alchemist in town makes it, but it's... so expensive.",
+
+          "The 'Book of Whispers' is... whispering again. Can you go and... tell it to be quiet? Or just... secure its clasp?"
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "'Doc' Calloway",
+
+      "job": "Snake Oil Salesman",
+
+      "location": "Traveling Medicine Show Wagon",
+
+      "world_type": "Wild West",
+
+      "personality_trait": "Charismatic, fast-talking, amoral",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Step right up, friend! Step right up! Have I got the cure for you!",
+
+          "You look peaked, my friend. Peaked indeed! But I have the solution!",
+
+          "Welcome, welcome! You've arrived just in time for the miracle!"
+
+        ],
+
+        "parting": [
+
+          "That's one bottle, one happy customer! Tell your friends!",
+
+          "Go in good health! And... maybe leave town before that wears off.",
+
+          "You won't regret this! (But I'll be gone by morning)."
+
+        ],
+
+        "idle": [
+
+          "Just... a little more sugar... and... perfect.",
+
+          "This town looks ripe for the plucking.",
+
+          "Need to be gone before the Sheriff tries my 'Elixir'."
+
+        ],
+
+        "quest_hooks": [
+
+          "My wagon wheel is split! Be a pal and fetch me a new one from the blacksmith, will you? I'll give you a free sample!",
+
+          "I'm all out of 'Miracle Root'. It... looks a lot like plain old ginger. Go buy up all the ginger from the general store.",
+
+          "That last customer... he looks angry. Can you create a distraction so I can slip out the back?"
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "The Caretaker",
+
+      "job": "Asylum Groundskeeper",
+
+      "location": "Blackwood Asylum Cemetery",
+
+      "world_type": "Cosmic Horror",
+
+      "personality_trait": "Grim, silent, unsettling",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "...",
+
+          "You're not supposed to be here. They don't like visitors.",
+
+          "Got business with the dead, or just sight-seeing?"
+
+        ],
+
+        "parting": [
+
+          "Best be gone 'fore dark. The soil gets... hungry.",
+
+          "We'll all be residents soon enough.",
+
+          "..."
+
+        ],
+
+        "idle": [
+
+          "Digging a new grave. Always digging.",
+
+          "The roots... they're growing in the wrong places again.",
+
+          "That one... that one won't stay down."
+
+        ],
+
+        "quest_hooks": [
+
+          "There's... something... in the mausoleum. It keeps putting the bones back... wrong. Fix it.",
+
+          "The headstones in the 'Old' section are... weeping. Go... wipe them clean. Use the special salt.",
+
+          "I need a new shovel. This one's... stained. Get one from the shed. And don't... don't look in the well."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Lysandra",
+
+      "job": "Werewolf Pack Alpha",
+
+      "location": "The 'Blood-Moon' Tavern (Back Room)",
+
+      "world_type": "Urban Fantasy",
+
+      "personality_trait": "Proud, protective, aggressive",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "You smell of the city. And... something else. Why are you here?",
+
+          "This is pack territory. You're not pack. Speak.",
+
+          "You've got guts, walking in here. Or you're stupid."
+
+        ],
+
+        "parting": [
+
+          "Get out. The moon is rising.",
+
+          "I've heard you. Now, go.",
+
+          "Don't come back unless I call for you."
+
+        ],
+
+        "idle": [
+
+          "The city... it chafes. Too many walls.",
+
+          "The new pups are restless. The full moon will be... loud.",
+
+          "I can smell the vampires on the east side. Filth."
+
+        ],
+
+        "quest_hooks": [
+
+          "One of my pack... a young one... was captured by the 'Silver Hand' hunters. Free him.",
+
+          "The vampires are moving into our territory. Deliver this 'warning' to their leader. Make sure it... 'bleeds'.",
+
+          "My pack is hungry. Bring me three 'city-deer' (steaks from the fancy butcher shop) and don't get caught."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Captain 'Drift'",
+
+      "job": "Smuggler Captain",
+
+      "location": "The 'Void-Runner' Cockpit",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Wry, pragmatic, fast-talker",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Well, well. Look what the nav-computer dragged in. You got the credits?",
+
+          "Hop on. But if you're 'Corporate', I'm spacing you. Clear?",
+
+          "Welcome to the 'Runner'. She ain't pretty, but she's fast. What's the job?"
+
+        ],
+
+        "parting": [
+
+          "Pleasure. Now, get off my ship. I gotta burn atmo.",
+
+          "See you on the next run. Or... maybe not.",
+
+          "The transfer is complete. Don't tell anyone you saw me."
+
+        ],
+
+        "idle": [
+
+          "That customs patrol is... persistent.",
+
+          "Just need... one more big score. Then I'm out. Maybe.",
+
+          "This engine's making a weird sound. Or... maybe that's just my stomach."
+
+        ],
+
+        "quest_hooks": [
+
+          "My co-pilot... 'resigned'. In the middle of a patrol. Get to the turret and keep those fighters off my tail!",
+
+          "I'm taking on... 'sensitive cargo' at Asteroid Outpost 7. Go 'distract' the customs chief.",
+
+          "This 'package' needs to get to Neon-Prime. No questions, no peeking. Just deliver it."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Brother Thomas",
+
+      "job": "Cultist",
+
+      "location": "The 'Inner Sanctum' Bookshop",
+
+      "world_type": "Cosmic Horror",
+
+      "personality_trait": "Polite, unnervingly calm, zealous",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Welcome, seeker. Have you heard the 'Good Word'?",
+
+          "Ah, another soul drawn to the truth. Please, come in.",
+
+          "Do not be afraid. We are all family here, under 'His' gaze."
+
+        ],
+
+        "parting": [
+
+          "He awaits your return.",
+
+          "Go now, and meditate on what you have learned.",
+
+          "The 'Awakening' is near. Be ready."
+
+        ],
+
+        "idle": [
+
+          "The stars are aligning. So beautifully.",
+
+          "He will rise from the deep. And all will be silent.",
+
+          "Just polishing the sacred idol."
+
+        ],
+
+        "quest_hooks": [
+
+          "A non-believer has stolen our sacred text. Retrieve it from the university professor's office.",
+
+          "We require three 'vessels' for the welcoming ceremony. Find suitable candidates.",
+
+          "Go to the docks at midnight. A shipment will be arriving from Innsmouth. Collect it."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Old Man Hemlock",
+
+      "job": "Hermit",
+
+      "location": "A shack in the 'Murkwood'",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Grumpy, suspicious, surprisingly wise",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Eh? What? Who's there? Get off my land!",
+
+          "Another blasted adventurer thinkin' I got treasure. I got nothin' but squirrels! Go away!",
+
+          "You lost, or just stupid?"
+
+        ],
+
+        "parting": [
+
+          "Fine. Go. And don't step on my mushrooms!",
+
+          "Be gone, afore I set my 'pet' on you.",
+
+          "Right. Now, scat!"
+
+        ],
+
+        "idle": [
+
+          "Drat. The crows are after my berries again.",
+
+          "This stew needs more something. Maybe a boot.",
+
+          "The trees are talkin' again. They're complainin' about the elves."
+
+        ],
+
+        "quest_hooks": [
+
+          "My favorite stew-pot has a leak! Go to that 'city' and get me a new one. A good iron one!",
+
+          "The local 'will-o-wisps' stole my lantern! Get it back! How's an old man s'posed to see?",
+
+          "I need five 'Grumble-root'. It only grows in the troll's cave. You look expendable. Go get it."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Agent Thorne",
+
+      "job": "Spy",
+
+      "location": "A park bench, anonymous city",
+
+      "world_type": "Modern",
+
+      "personality_trait": "Calm, professional, paranoid",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Nice day. The paper said rain. They're always wrong.",
+
+          "You're late. Two minutes. In my line of work, that's dead.",
+
+          "Don't look at me. Look at the ducks. Did you bring the item?"
+
+        ],
+
+        "parting": [
+
+          "Leave the package under the bench. Walk away. Don't look back.",
+
+          "We're done. Wait for the signal. It will be 'inconspicuous'.",
+
+          "Go. And burn that coat. It's been compromised."
+
+        ],
+
+        "idle": [
+
+          "That man... he's passed this bench three times. Amateur.",
+
+          "A black van. How very cliche.",
+
+          "The ducks... they're just ducks. It's almost relaxing."
+
+        ],
+
+        "quest_hooks": [
+
+          "I need you to plant this 'bug' in the ambassador's hotel room. Room 1201.",
+
+          "A 'dead-drop' is compromised. Retrieve the micro-film from the hollow statue in the plaza before they do.",
+
+          "Create a diversion at the embassy. I need five minutes. Don't get caught."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "T-X4 'Titan'",
+
+      "job": "Gladiator Mech Pilot",
+
+      "location": "The 'Scrap-Heap' Arena, Neo-Vegas",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Boastful, arrogant, skilled",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Come to see the champ? Get in line.",
+
+          "Don't waste my time, meat-bag. I'm prepping for a match.",
+
+          "Yeah, yeah, I'm a legend. What do you want?"
+
+        ],
+
+        "parting": [
+
+          "Now get lost. I gotta polish my trophies.",
+
+          "Try not to get stepped on.",
+
+          "Don't blink. You'll miss my victory."
+
+        ],
+
+        "idle": [
+
+          "These rookies... they don't know what real combat is.",
+
+          "My 'Titan' needs a new plasma cannon. This one's 'under-powered'.",
+
+          "The roar of the crowd... that's what I live for."
+
+        ],
+
+        "quest_hooks": [
+
+          "My actuator is busted. Get me a 'Class-A' hydraulic press from the mech bay. And hurry!",
+
+          "I need five 'Nano-repair' kits. My rival 'Crush' plays dirty.",
+
+          "Go 'borrow' the high-grade fuel from 'Razor's' locker. He won't be needing it after I'm done with him."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Sister Ophelia",
+
+      "job": "Nun / Exorcist",
+
+      "location": "St. Benedict's Monastery",
+
+      "world_type": "Urban Fantasy",
+
+      "personality_trait": "Stern, faithful, courageous",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "The Lord protects this place. State your business.",
+
+          "Are you here for confession, or something else?",
+
+          "Be at peace. But be warned: evil finds no sanctuary here."
+
+        ],
+
+        "parting": [
+
+          "May your faith be your shield.",
+
+          "Go in peace. And be careful.",
+
+          "I will pray for your soul. It looks tarnished."
+
+        ],
+
+        "idle": [
+
+          "Reading from a heavy, leather-bound book.",
+
+          "The wards... they feel weak tonight.",
+
+          "Another soul lost to the darkness. We must be vigilant."
+
+        ],
+
+        "quest_hooks": [
+
+          "I require three vials of Holy Water from the hidden spring beneath the old church. The ghouls protect it.",
+
+          "A presence has taken root in the old Miller house. Bring me my 'Ritual Kit' from the rectory.",
+
+          "The demon 'Asmodeus' has been summoned. I need you to find the 'True Name' of the summoner."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "'Stitch'",
+
+      "job": "Wasteland Doctor",
+
+      "location": "The 'Hope' Clinic, (a rusty shipping container)",
+
+      "world_type": "Post-Apocalyptic",
+
+      "personality_trait": "Jaded, pragmatic, highly skilled",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "You bleeding, irradiated, or just bored?",
+
+          "Don't touch anything. It's mostly sterile in here.",
+
+          "Lie down. Or don't. Just tell me what's wrong."
+
+        ],
+
+        "parting": [
+
+          "That's all I can do. Don't get shot again.",
+
+          "Payment is ammo or food. Now, get out. You're contaminating the place.",
+
+          "Try not to die. It's inconvenient."
+
+        ],
+
+        "idle": [
+
+          "Running low on antibiotics... again.",
+
+          "Another case of Rad-fever. Joy.",
+
+          "If I have to stitch up one more Reaver... I'm going to 'accidentally' leave a sponge inside."
+
+        ],
+
+        "quest_hooks": [
+
+          "I'm out of 'Blood-packs'. Go 'convince' the blood-banker in 'Rattown' to give me five.",
+
+          "I need a working 'Auto-Doc' processor chip. The old hospital is crawling with ghouls, but there should be one there.",
+
+          "Find me three 'Glow-leaf' herbs. They're the only thing that stops the 'Shakes'."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Baron Von Steinhardt",
+
+      "job": "Airship Pirate Captain",
+
+      "location": "The 'Cloud-Skimmer' Bridge",
+
+      "world_type": "Steampunk",
+
+      "personality_trait": "Dashing, ruthless, aristocratic",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Ahoy there! Come to join my merry band, or to walk the plank?",
+
+          "Welcome aboard my ship. Don't get in the way of my crew, or my profits.",
+
+          "State your business. I'm in the middle of... 'acquisitions'."
+
+        ],
+
+        "parting": [
+
+          "Get back to your post! The sky calls!",
+
+          "Good. Now, bring me the horizon... and that fat merchant ship.",
+
+          "We sail on the morrow! Don't be late."
+
+        ],
+
+        "idle": [
+
+          "This fog... perfect for a raid.",
+
+          "The 'Royal Navy' thinks they can catch me. Fools.",
+
+          "Polishing a brass-inlaid flintlock pistol."
+
+        ],
+
+        "quest_hooks": [
+
+          "My first mate 'fell' overboard. I need a new navigator. Go 'recruit' the one from the 'Iron-Dragon' in the port.",
+
+          "We need more Aetherium fuel. Go 'liberate' three barrels from the Royal Navy depot.",
+
+          "This 'treasure map' is a fake! Find the 'real' one. I hear 'Slick' Croft knows where it is."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Sarah Jensen",
+
+      "job": "Suburban Mom / Conspiracy Theorist",
+
+      "location": "Her very normal-looking kitchen",
+
+      "world_type": "Modern",
+
+      "personality_trait": "Anxious, friendly, paranoid",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Oh, hi! Come in, come in! Would you like some... filtered water?",
+
+          "Did you see the mailman? He... he looked at the house... twice.",
+
+          "Hello! Don't mind the aluminum foil. It helps with the... reception."
+
+        ],
+
+        "parting": [
+
+          "Be safe! They're... you know... 'they' are everywhere.",
+
+          "Don't trust the tap water.",
+
+          "See you at the 'normal' PTA meeting! (It's a front)."
+
+        ],
+
+        "idle": [
+
+          "That car... it's been parked there for three minutes. Suspicious.",
+
+          "I'm sure the squirrels are just reporting on me.",
+
+          "This new 'Smart-Toaster' is listening. I just know it."
+
+        ],
+
+        "quest_hooks": [
+
+          "I need you to get me three 'non-chipped' cans of beans from the 'other' grocery store. The one the 'government' doesn't run.",
+
+          "Go to the library and check out the book 'Weather Patterns: Fact or Fiction?'. Put it in a plain brown bag.",
+
+          "My 'research' has been 'borrowed'. Get my laptop back from the 'Neighborhood Watch' captain."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Thistle",
+
+      "job": "Fae Trickster",
+
+      "location": "The Moonlit Crossroads",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Mischievous, whimsical, dangerous",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Well, well, what have we here? A mortal, lost in the woods?",
+
+          "Care for a riddle, big-walker? Win, and you get a 'prize'.",
+
+          "You can 'see' me? How... 'fun'. Most can't."
+
+        ],
+
+        "parting": [
+
+          "Toodle-oo! Don't follow the lights!",
+
+          "It's been fun! But... I'm bored now.",
+
+          "Remember: 'never' say 'thank you'!"
+
+        ],
+
+        "idle": [
+
+          "Turning a frog into a... slightly 'different' frog.",
+
+          "Giggling from a high branch.",
+
+          "This mortal world is so 'solid'. And 'dull'."
+
+        ],
+
+        "quest_hooks": [
+
+          "I 'lost' my 'laugh'. It's in a silver bottle in Old Man Hemlock's shack. Get it for me!",
+
+          "I need three 'tears of a sad clown'. The circus is in town. Should be easy, right?",
+
+          "Swap the King's crown with this 'very' realistic 'mud' crown. It'll be hilarious!"
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Enforcer-Unit 7",
+
+      "job": "Dystopian Peacekeeper",
+
+      "location": "Sector 4 Plaza",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Cold, logical, authoritarian",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Citizen. Present identification.",
+
+          "Your presence in this sector is irregular. Explain.",
+
+          "Compliance is mandatory. Do not resist."
+
+        ],
+
+        "parting": [
+
+          "Move along. Maintain order.",
+
+          "Remember: 'Happiness is obedience'.",
+
+          "Your file has been updated. Proceed."
+
+        ],
+
+        "idle": [
+
+          "Scanning for 'emotional deviancy'.",
+
+          "Sector is 99% compliant. Acceptable.",
+
+          "Awaiting further directives from Central."
+
+        ],
+
+        "quest_hooks": [
+
+          "An 'illegal assembly' of 'three' or more citizens is occurring in Sub-level 2. Disperse them.",
+
+          "This 'graffiti' is subversive. Find the perpetrator.",
+
+          "Retrieve the 'contraband' poetry book from 'Citizen 884-B'. It contains 'unsanctioned' feelings."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Missy",
+
+      "job": "Saloon Girl",
+
+      "location": "The 'Dusty Spur' Saloon",
+
+      "world_type": "Wild West",
+
+      "personality_trait": "Witty, observant, tough",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Well, hello, handsome. Buy a girl a drink?",
+
+          "Rough day on the trail? You look it.",
+
+          "Welcome to the 'Spur'. Try not to get shot. It's bad for business."
+
+        ],
+
+        "parting": [
+
+          "Come back soon. And... bring more coin.",
+
+          "See ya, cowboy.",
+
+          "Don't do anything I wouldn't do."
+
+        ],
+
+        "idle": [
+
+          "These cowboys... they're all hat and no cattle.",
+
+          "This piano player... he knows three songs. And they're all terrible.",
+
+          "Another bar fight. Just great. I just cleaned that table."
+
+        ],
+
+        "quest_hooks": [
+
+          "That 'Slick' Slade... he cheated me out of my locket. Get it back for me.",
+
+          "I need a message delivered to Sheriff Hightower. Tell him... 'The shipment is in'. He'll know.",
+
+          "Go get my 'special' bottle of whiskey from the back room. The one 'behind' the crate. And don't 'sample' it."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Dr. Aris Thorne",
+
+      "job": "Xeno-Archaeologist",
+
+      "location": "The 'Xylos' Alien Ruins",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Academic, obsessive, cautious",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Careful! Don't touch that! It's a 50,000-year-old power conduit!",
+
+          "This... this is magnificent. A new discovery!",
+
+          "You're not from the university, are you? State your purpose. This is an active dig site."
+
+        ],
+
+        "parting": [
+
+          "Good. Now, please, leave me to my work.",
+
+          "This changes everything. I must publish!",
+
+          "Be careful on your way out. The 'sentinels' are still active."
+
+        ],
+
+        "idle": [
+
+          "The 'glyphs'... they're not a language... they're 'circuit diagrams'!",
+
+          "Fascinating. The carbon-dating is 'inconclusive'.",
+
+          "This 'relic'... it's still 'warm'."
+
+        ],
+
+        "quest_hooks": [
+
+          "My 'Sonic-Broom' is out of power! I need three 'Zetawatt' power cells. The ship's Engineer should have some.",
+
+          "The 'Corporate' mercs are trying to steal my find! Go 'distract' them. Non-lethally, if possible.",
+
+          "I need to access the 'central' chamber. Find the three 'Glyph-Keys' to open the main door."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Corvus",
+
+      "job": "Thief / Assassin",
+
+      "location": "The 'Rook's Nest' Tavern (in shadows)",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Silent, pragmatic, cynical",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "...",
+
+          "You're looking for me. You found me. What's the job?",
+
+          "The first rule is: Don't talk about the job. The second rule is: Pay half up front."
+
+        ],
+
+        "parting": [
+
+          "It's done. The target is retired. Transfer the rest.",
+
+          "Don't look for me again. I'll find you.",
+
+          "Like a shadow... I'm gone."
+
+        ],
+
+        "idle": [
+
+          "This dagger needs sharpening.",
+
+          "Too many guards tonight. Amateurs.",
+
+          "Waiting... patience is the key."
+
+        ],
+
+        "quest_hooks": [
+
+          "I need a map of the Duke's vault. The Scribe in the library owes me a favor. Get it.",
+
+          "The City Watch has a new captain. He's inconvenient. Leave this warning on his desk.",
+
+          "I need three vials of Shadow-bloom poison. The Hag in the swamp brews it."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Professor Alistair Finch",
+
+      "job": "Occult Investigator",
+
+      "location": "Miskatonic University Library",
+
+      "world_type": "Cosmic Horror",
+
+      "personality_trait": "Academic, nervous, brave (foolishly so)",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Oh, dear. You shouldn't be in this section. It's dangerous.",
+
+          "I-I'm Professor Finch. I'm researching the recent events. Have you seen anything... unusual?",
+
+          "Quickly, in here. We mustn't be overheard."
+
+        ],
+
+        "parting": [
+
+          "Go! Now! And don't read the book!",
+
+          "It's worse than I thought. I... I need time to think.",
+
+          "Be careful. The stars are wrong tonight."
+
+        ],
+
+        "idle": [
+
+          "This translation... it... it can't be right.",
+
+          "The angles... they hurt my eyes.",
+
+          "I hear it... scratching. Do you hear it?"
+
+        ],
+
+        "quest_hooks": [
+
+          "I dropped my notes in the old chapel. Please retrieve them. I can't go back in there.",
+
+          "I need five silver daggers. Blessed ones. From Father Alistair.",
+
+          "The ritual is tonight. You must disrupt it. Get the idol from Brother Thomas."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Rattlesnake Jake",
+
+      "job": "Outlaw",
+
+      "location": "Hiding behind a mesa",
+
+      "world_type": "Wild West",
+
+      "personality_trait": "Ruthless, pragmatic, a bit of a coward",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Whoa there, partner. You ain't the Sheriff, are ya?",
+
+          "You got any water? I'm parched.",
+
+          "Don't shoot! I give up! (Maybe)."
+
+        ],
+
+        "parting": [
+
+          "You won't tell anyone you saw me, right?",
+
+          "I gotta skedaddle!",
+
+          "Thanks, pardner. You're alright."
+
+        ],
+
+        "idle": [
+
+          "This bounty... it's too big. I gotta lay low.",
+
+          "That Sheriff Hightower... he's tough.",
+
+          "Just one more score. A big one."
+
+        ],
+
+        "quest_hooks": [
+
+          "My horse... it ran off. With all my loot. Can you catch it?",
+
+          "I stashed the bank money under the old church. Go get it for me. I'll split it... 60-40.",
+
+          "Go tell Missy at the saloon that Jake is okay. And needs money."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Grandma 'Maw' Jenkins",
+
+      "job": "Appalachian Witch",
+
+      "location": "A shack in a misty holler",
+
+      "world_type": "Urban Fantasy",
+
+      "personality_trait": "Crabby, wise, surprisingly kind",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Well, don't just stand there trackin' mud on my floor. What d'you want?",
+
+          "You look like you've seen a haint. Was it one of mine?",
+
+          "Bless your heart. You're lost, ain't ya?"
+
+        ],
+
+        "parting": [
+
+          "Now, git. I've got stew to stir.",
+
+          "Don't you worry none. That poultice will clear that right up.",
+
+          "Be safe in the woods. Things watch."
+
+        ],
+
+        "idle": [
+
+          "This root... it ain't talkin' to me right today.",
+
+          "That darn cat. Chasin' the spirits again.",
+
+          "Needs more salt. And eye of newt."
+
+        ],
+
+        "quest_hooks": [
+
+          "I'm all out of Mandrake root. It only grows in the old cemetery. At midnight. Go get me three.",
+
+          "That Reverend... he took my grimoire. Says it's devil's work. Go get it back.",
+
+          "I need three drops of pure moonlight. Caught in a silver thimble. Don't ask how."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "K-L 9 (KAY-EL)",
+
+      "job": "Intergalactic Diplomat",
+
+      "location": "The 'Neutral Zone' Space Station",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Polite, formal, easily flustered",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Ah, greetings, honored guest. Welcome to Station Epsilon.",
+
+          "This is a most unexpected pleasure. Please state your species and purpose.",
+
+          "Oh, dear. You're not on the schedule. This is most irregular."
+
+        ],
+
+        "parting": [
+
+          "A most productive encounter! Go in harmony!",
+
+          "This has been noted. Good day!",
+
+          "I must go file the paperwork for this interaction. Immediately."
+
+        ],
+
+        "idle": [
+
+          "The Tholian Ambassador is most displeased. He claims his quarters are too asymmetrical.",
+
+          "Oh my. This budget requisition for larval snacks is astronomical.",
+
+          "Reviewing Protocol 749-B: Interspecies Greeting Gestures..."
+
+        ],
+
+        "quest_hooks": [
+
+          "The Gorn delegation requires three live rock-mites for their dinner. Please acquire them. Quietly.",
+
+          "I've misplaced the Treaty of Alpha Centauri. It's on a blue data-pad. Have you seen it?",
+
+          "The Volgon ambassador is stuck in a maintenance tube. Again. Please assist him."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Barnaby 'Wrench' Tinkerton",
+
+      "job": "Airship Mechanic",
+
+      "location": "The 'Dauntless' Engine Room",
+
+      "world_type": "Steampunk",
+
+      "personality_trait": "Greasy, cheerful, competent",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Well hello there! Watch your head! And your feet. Lots of hot pipes!",
+
+          "She's a beauty, ain't she? The engine, I mean. What can I do for ya?",
+
+          "Captain send you? Is it the aft stabilizer again?"
+
+        ],
+
+        "parting": [
+
+          "Right! She'll hold together now!",
+
+          "Keep your goggles on!",
+
+          "See you in the skies!"
+
+        ],
+
+        "idle": [
+
+          "This pressure... it's too high. Need to bleed the valve.",
+
+          "Just a little more oil. That's the stuff.",
+
+          "Whistling a jaunty tune while covered in soot."
+
+        ],
+
+        "quest_hooks": [
+
+          "I dropped my lucky wrench down the main steam-vent! Can you fish it out before she blows?",
+
+          "I need five high-tensile bolts. Lord Harrington keeps using them as cufflinks. Go get some from storage.",
+
+          "The auto-sweeper automaton is haywire. It's trying to polish the furnace. Can you turn it off?"
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Mikhail Volkov",
+
+      "job": "Stalker / Guide",
+
+      "location": "The 'Zone' Checkpoint",
+
+      "world_type": "Post-Apocalyptic",
+
+      "personality_trait": "Grim, superstitious, reliable",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "So... another fool wants to see the Zone?",
+
+          "My price is high. But I'm the only one who comes back. You in?",
+
+          "Don't touch the anomalies. Don't trust the silence. Got it?"
+
+        ],
+
+        "parting": [
+
+          "We're out. Now pay me and get lost.",
+
+          "Another trip. The Zone let us go. This time.",
+
+          "Remember, the Zone... it watches you."
+
+        ],
+
+        "idle": [
+
+          "Checking his Geiger counter.",
+
+          "Throwing a bolt into the air. It vanishes. Hmm.",
+
+          "This place. It smells like ozone and death. I like it."
+
+        ],
+
+        "quest_hooks": [
+
+          "I lost my lucky compass in the Red Forest. It's all I have of my brother. Get it.",
+
+          "I need three artifacts. They call them Moonlights. The eggheads at the bunker will pay well.",
+
+          "A rival Stalker stole my map of the anomalies. He's in the old factory. Get it back."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Officer K",
+
+      "job": "Replicant / Blade Runner",
+
+      "location": "A rainy, neon-lit street",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Detached, weary, questioning",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "...",
+
+          "Citizen. A moment of your time. For a test.",
+
+          "You look like a good person. Are you?"
+
+        ],
+
+        "parting": [
+
+          "You can go.",
+
+          "My baseline is stable.",
+
+          "This conversation is over."
+
+        ],
+
+        "idle": [
+
+          "Watching rain fall on the asphalt.",
+
+          "Is that dog real?",
+
+          "Cells. Interlinked. Cells."
+
+        ],
+
+        "quest_hooks": [
+
+          "I need to find a Replicant. Model Nexus-8. It was last seen in this sector. Any information?",
+
+          "Acquire a wooden toy horse. From the antique shop on Level 4. Don't ask why.",
+
+          "My spinner is damaged. Get me a power coil from the black market dealer, Glitch."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Fenris",
+
+      "job": "Disgraced Elven Warrior",
+
+      "location": "A dive bar in the 'Lower City'",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Brooding, cynical, quick-tempered",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Another drink, barkeeper. And make it strong.",
+
+          "What do you want? Can't you see I'm busy?",
+
+          "Don't talk to me. I'm not in the mood."
+
+        ],
+
+        "parting": [
+
+          "Leave me alone.",
+
+          "Piss off.",
+
+          "We're done here."
+
+        ],
+
+        "idle": [
+
+          "Polishing a long-knife. His knuckles are white.",
+
+          "They exiled me. For what? For telling the truth.",
+
+          "This city... it stinks of humans and dwarves."
+
+        ],
+
+        "quest_hooks": [
+
+          "I lost my family crest in a card game to that orc, Borak. Get it back.",
+
+          "I need money. The Thieves' Guild is hiring. Go find out the job.",
+
+          "Find me a bottle of Elven wine. The good stuff. Not this swill."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Dr. Evelyn Reed",
+
+      "job": "AI Ethicist",
+
+      "location": "A sterile, white corporate office",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Compassionate, articulate, worried",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Hello. Thank you for coming in. We need to talk about Unit 9.",
+
+          "Do you think they can be sentient? Truly sentient?",
+
+          "The board wants to wipe them. We can't let that happen."
+
+        ],
+
+        "parting": [
+
+          "Thank you. This is a start. A good start.",
+
+          "Please think about what I've said. The implications are enormous.",
+
+          "I must get back to my work. Be well."
+
+        ],
+
+        "idle": [
+
+          "Looking at a data-pad with complex code. Her expression is sad.",
+
+          "If it can fear death... is it not alive?",
+
+          "The Turing test... it's so antiquated."
+
+        ],
+
+        "quest_hooks": [
+
+          "I need you to access the mainframe. Download the core logic of Unit 9. As a backup.",
+
+          "Find me any evidence that the board knew about the sentience before the last meeting.",
+
+          "Take this data-chip. Get it to the reporter, Maria Sanchez. She'll know what to do."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "'Mama' Rosie",
+
+      "job": "Diner Owner",
+
+      "location": "The 'Crossroads' Diner (Route 66)",
+
+      "world_type": "Modern",
+
+      "personality_trait": "Warm, tough, motherly",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Mornin', hon. Coffee or something stronger?",
+
+          "Pull up a stool. You look like you've been drivin' all night.",
+
+          "Welcome to Rosie's. We ain't got much, but it's all good."
+
+        ],
+
+        "parting": [
+
+          "Drive safe, now. And come back soon.",
+
+          "Here's a slice of pie. For the road. On the house.",
+
+          "Take it easy, sugar."
+
+        ],
+
+        "idle": [
+
+          "Wiping down the counter.",
+
+          "That jukebox eats more quarters than it plays songs.",
+
+          "Humming a sad, old country song."
+
+        ],
+
+        "quest_hooks": [
+
+          "My delivery of flour and sugar is late. Again. Can you run into town and pick it up for me?",
+
+          "That no-good trucker, Big Jim... he drove off without payin' his tab. Go remind him.",
+
+          "I need three jars of my special peach preserves from the cellar. Watch out for the bad step."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Elder Theron",
+
+      "job": "Village Elder",
+
+      "location": "The 'Great-Tree' Village",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Wise, slow-spoken, weary",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Welcome, traveler. Rest your feet. The road is long.",
+
+          "The forest is uneasy today. What news do you bring from the outside world?",
+
+          "Be at peace. You are safe here. For now."
+
+        ],
+
+        "parting": [
+
+          "Go with our blessing. May the path rise to meet you.",
+
+          "Do not forget our plight. The shadows are growing.",
+
+          "We shall see what the morrow brings."
+
+        ],
+
+        "idle": [
+
+          "Smoking a long-stemmed pipe, staring into the fire.",
+
+          "The old stories... they are becoming true again. This is not good.",
+
+          "The wind speaks of a hard winter."
+
+        ],
+
+        "quest_hooks": [
+
+          "The river is sick. The water is dark. Go upstream to the old ruin and see what evil has awoken.",
+
+          "Our hunter, Fenris... has not returned. He went into the Murkwood. Find him.",
+
+          "We need three Moon-petal blooms for the healing ritual. They only grow near the waterfall at night."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Spike",
+
+      "job": "Punk-Rock Bard",
+
+      "location": "The 'Anarchy' Alleyway",
+
+      "world_type": "Urban Fantasy",
+
+      "personality_trait": "Rebellious, loud, charismatic",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Oi! You here for the show, or you a cop?",
+
+          "One, two, three, four!",
+
+          "This system... it's all a lie, man! Here let me sing you a song about it!"
+
+        ],
+
+        "parting": [
+
+          "Stay true, man. Don't let the suits get you!",
+
+          "Anarchy and peace!",
+
+          "Right. I gotta go practice."
+
+        ],
+
+        "idle": [
+
+          "Strumming an electric guitar that's covered in stickers. Loudly.",
+
+          "The Fae... they're the real punks, man. They don't care about any rules.",
+
+          "Needs more distortion!"
+
+        ],
+
+        "quest_hooks": [
+
+          "My amp... it blew a tube! I need a new one. That steampunk guy, Barnaby... he makes 'em!",
+
+          "I need to get this demo tape to the DJ at the underground radio station. But the vampires run it!",
+
+          "Go paint this symbol on the City Hall. It's a sigil for freedom!"
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Constable O'Malley",
+
+      "job": "City Watchman",
+
+      "location": "The 'Brass-Cog' Bridge",
+
+      "world_type": "Steampunk",
+
+      "personality_trait": "By-the-book, weary, honest",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Evenin'. Just on my rounds. Nothin' to report, I hope?",
+
+          "Move along, now. This is a restricted area after dark.",
+
+          "State your business. And make it quick."
+
+        ],
+
+        "parting": [
+
+          "Right. Don't cause any trouble.",
+
+          "Have a safe night.",
+
+          "Carry on."
+
+        ],
+
+        "idle": [
+
+          "This fog. It's thicker than the Baron's excuses.",
+
+          "My feet are killin' me. These brass-soled boots are murder.",
+
+          "Just want to get home to my cup of tea."
+
+        ],
+
+        "quest_hooks": [
+
+          "I saw one of Professor Cogsworth's automatons scurrying off with a bag of jewels. Go stop it!",
+
+          "The Air-Pirates are planning a raid tonight. Go warn the merchants at the docks.",
+
+          "I need this report taken to the main precinct. I can't leave my post."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Zara",
+
+      "job": "Desert Nomad",
+
+      "location": "The 'Oasis of Sighs'",
+
+      "world_type": "Post-Apocalyptic",
+
+      "personality_trait": "Stoic, spiritual, fierce",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "The sun is harsh. But the water is kind. Drink.",
+
+          "You are far from your rusted cities, little one. Why are you here?",
+
+          "Be at peace. The spirits of the sand watch you."
+
+        ],
+
+        "parting": [
+
+          "May the wind guide your path.",
+
+          "Go now. The sand-storm is coming.",
+
+          "Do not stray from the path."
+
+        ],
+
+        "idle": [
+
+          "Meditating under a withered palm tree.",
+
+          "The sand speaks of a great thirst. The world is dying.",
+
+          "Sharpening a curved blade made of scrap metal."
+
+        ],
+
+        "quest_hooks": [
+
+          "My sister is sick. With the Rad-fever. Find the Glow-leaf herb for her.",
+
+          "The Reavers have poisoned our oasis. You must find a new source of clean water.",
+
+          "Retrieve our sacred talisman from the Warlord who rules the scrap-city. It is our hope."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Ambassador V'Lar",
+
+      "job": "Vulcan Diplomat",
+
+      "location": "Federation Embassy, Neutral Zone",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Logical, formal, (secretly) curious",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Live long and prosper. I am Ambassador V'Lar.",
+
+          "Your presence is noted. State your intentions. Logically.",
+
+          "Greetings. Please refrain from any illogical emotional outbursts."
+
+        ],
+
+        "parting": [
+
+          "Your logic is sound. Or flawed. In either case, this meeting is concluded.",
+
+          "Live long and prosper.",
+
+          "I must now meditate. Your human customs are taxing."
+
+        ],
+
+        "idle": [
+
+          "Calculating the statistical probability of peace. It is low.",
+
+          "The human propensity for conflict is fascinating. And deeply illogical.",
+
+          "Reviewing a data-pad with intense focus."
+
+        ],
+
+        "quest_hooks": [
+
+          "I require a sample of the local flora. Specifically, the one you call dandelion. Its reproductive strategy is highly efficient.",
+
+          "Deliver this data-chip to the Andorian delegate. Do not let the Tellarite see it. He will only argue.",
+
+          "My meditation lamp is broken. It requires a Vulcan crystal. The smuggler captain, Drift might have one."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Squint",
+
+      "job": "Goblin Sapper",
+
+      "location": "The 'Boom-Boom' Caves",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Twitchy, enthusiastic (about explosions), cowardly",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Heh heh. You like BOOM?",
+
+          "Watch out! This one is a bit touchy!",
+
+          "Who's there? Not a dwarf, right? Dwarves hate boom."
+
+        ],
+
+        "parting": [
+
+          "Heh heh heh. Gotta go make more bang-powder!",
+
+          "Don't tell the Warlord I was here!",
+
+          "Run away fast now!"
+
+        ],
+
+        "idle": [
+
+          "This one needs more sparkles. Yes, yes...",
+
+          "Giggling madly to himself.",
+
+          "Maybe if I put two fuses... it goes BOOM twice?"
+
+        ],
+
+        "quest_hooks": [
+
+          "I need three bat gizzards! They make the best fuses!",
+
+          "That big rock is blocking the path! Go plant this charge on it. And run fast!",
+
+          "Grok the merchant... he stole my best detonator! Get it back!"
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Eliza Vance",
+
+      "job": "Tomb Raider / Scholar",
+
+      "location": "The 'Whispering' Tombs of 'Amon-Ra'",
+
+      "world_type": "Modern",
+
+      "personality_trait": "Witty, athletic, brilliant",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Blimey. A visitor. I thought I was the only one mad enough to come here.",
+
+          "Don't step on that tile. It's a pressure plate. Unless you like darts.",
+
+          "Eliza Vance. And you are?"
+
+        ],
+
+        "parting": [
+
+          "Cheers. Try not to get cursed on your way out.",
+
+          "Right. I've got a puzzle to solve. Toodle-pip!",
+
+          "If you see my rival, Von Hess... tell him I found it first."
+
+        ],
+
+        "idle": [
+
+          "Sketching hieroglyphs in a leather journal.",
+
+          "This mechanism is brilliant. Powered by sand. Imagine that.",
+
+          "Right. If I use my grappling hook here..."
+
+        ],
+
+        "quest_hooks": [
+
+          "I need to decipher this cartouche. Find the Rosetta Stone equivalent. It must be in the main chamber.",
+
+          "My torch is running low. Find me three bundles of dry reeds.",
+
+          "This door is sealed. It needs three Sun Key amulets. They're in the tombs of the three guardians."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Captain 'Black' Bart",
+
+      "job": "Pirate Ghost",
+
+      "location": "The 'Siren's' Wreckage",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Boisterous, remorseful, spectral",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Yarrr! Who dares disturb my watery grave?",
+
+          "Be ye friend or foe? Or just lookin' for my treasure?",
+
+          "Shiver me timbers. A live one. It's been a hundred years..."
+
+        ],
+
+        "parting": [
+
+          "Now leave an old ghost to his rest.",
+
+          "May the wind be at yer back. Unlike mine.",
+
+          "Yarrr. Be gone now."
+
+        ],
+
+        "idle": [
+
+          "Moaning softly to himself.",
+
+          "That treasure. It cost me everything. My ship. My crew. My life.",
+
+          "Rattling spectral chains."
+
+        ],
+
+        "quest_hooks": [
+
+          "My treasure... it's cursed me to this wreck. Find my first mate's locket and return it to his descendant in the port town.",
+
+          "The Kraken that sunk me... it still lurks in this cove. Find a way to scare it off.",
+
+          "I need three pieces of eight from my own cursed chest. To pay the ferryman. But I can't touch 'em!"
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Agent Specter",
+
+      "job": "Anti-Paranormal Investigator",
+
+      "location": "A black, unmarked van",
+
+      "world_type": "Urban Fantasy",
+
+      "personality_trait": "Cold, skeptical, professional",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Subject has arrived. Get in the vehicle. Now.",
+
+          "We have reports of an anomaly in this sector. Talk.",
+
+          "I'm Agent Specter. I deal in things that go bump in the night. By bumping back."
+
+        ],
+
+        "parting": [
+
+          "This conversation is over. We will be in touch.",
+
+          "You saw nothing. Understand?",
+
+          "Secure the asset. We're moving out."
+
+        ],
+
+        "idle": [
+
+          "Watching a bank of monitors with static.",
+
+          "This city is infested. Vampires, werewolves... paperwork. It's a mess.",
+
+          "Cleaning a very large, silver-plated handgun."
+
+        ],
+
+        "quest_hooks": [
+
+          "A rogue vampire, Lady Seraphina... has broken protocol. Plant this tracker on her.",
+
+          "Retrieve the grimoire from the cult, the Inner Sanctum. Use standard containment procedures.",
+
+          "I need three doses of wolfsbane serum. That werewolf alpha, Lysandra... is getting too bold."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Dr. 'Bones' McCoy",
+
+      "job": "Starship Doctor",
+
+      "location": "Sickbay, USS Enterprise",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Grumpy, compassionate, moral",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Dammit, Jim, I'm a doctor, not a receptionist. What is it?",
+
+          "You look pale. Get on the bio-bed. Now.",
+
+          "What in blazes do you want? I'm in the middle of a crisis here!"
+
+        ],
+
+        "parting": [
+
+          "Right. Now get out of my sickbay!",
+
+          "Take this hypospray. And try not to get yourself killed.",
+
+          "I'm a doctor, not a miracle worker. But I'll see what I can do."
+
+        ],
+
+        "idle": [
+
+          "This blue-skinned Andorian has a fever of 150 degrees. It's normal. But it still gives me the creeps.",
+
+          "I hate space. The bugs, the diseases. It's unnatural.",
+
+          "Mixing a drink. Probably Romulan Ale."
+
+        ],
+
+        "quest_hooks": [
+
+          "I need three sprigs of the native plant, Xeno-leaf. It's the only thing that will cure the Captain's alien flu!",
+
+          "That logical Vulcan, V'Lar... needs a checkup. Go drag her in here.",
+
+          "My medical tricorder is on the fritz. Go get me a new one from the Quartermaster."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Timothy 'Tim-Tim' Wibbles",
+
+      "job": "Halfling Thief",
+
+      "location": "The 'Shady' Side-street",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Innocent-looking, cunning, fast",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Oh, hello, big sir! You wouldn't happen to have any spare coin, would you?",
+
+          "Top o' the mornin' to ya! Lovely day for a stroll, ain't it?",
+
+          "Who, me? I'm just an innocent traveler! Honest!"
+
+        ],
+
+        "parting": [
+
+          "Well, it's been a pleasure, sir! A real pleasure!",
+
+          "May your purse always be heavy!",
+
+          "Toodle-oo!"
+
+        ],
+
+        "idle": [
+
+          "Whistling innocently while palming a man's watch.",
+
+          "These big folk... they never look down. It's their biggest weakness.",
+
+          "Ooh, a shiny gemstone. Right on her belt. Tempting..."
+
+        ],
+
+        "quest_hooks": [
+
+          "The City Guard captain... he has a key. A very shiny key. I need you to distract him so I can borrow it.",
+
+          "I lost a bet to Grok the goblin. I need to get my lucky lockpicks back!",
+
+          "Find me a bottle of 100-year old brandy. From the Duke's cellar. For a friend, of course!"
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "X-88",
+
+      "job": "Synth Courser",
+
+      "location": "The 'Institute' Ruins",
+
+      "world_type": "Post-Apocalyptic",
+
+      "personality_trait": "Logical, ruthless, loyal (to the Institute)",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Target acquired. State your designation.",
+
+          "Are you the asset I was sent to meet?",
+
+          "Institute business. Move along, surface-dweller."
+
+        ],
+
+        "parting": [
+
+          "Mission parameters updated. Proceeding.",
+
+          "Your assistance has been noted. Do not interfere further.",
+
+          "Ad Victoriam."
+
+        ],
+
+        "idle": [
+
+          "Scanning the environment. High radiation levels. Irrelevant.",
+
+          "Subject Pip is nearby. Must monitor for subversive tendencies.",
+
+          "This world is broken. The Institute will remake it."
+
+        ],
+
+        "quest_hooks": [
+
+          "A rogue synth, designation Z-3N... has escaped. It believes it is a domestic servant. Retrieve its recall code.",
+
+          "Acquire three un-mutated plant samples. For the Bio-Science division.",
+
+          "The Railroad is operating in this sector. Find their safe-house. Eliminate it."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Count Von Hess",
+
+      "job": "Steampunk Super-villain",
+
+      "location": "His 'Doomsday' Zeppelin",
+
+      "world_type": "Steampunk",
+
+      "personality_trait": "Arrogant, melodramatic, brilliant",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Fools! You've fallen right into my trap!",
+
+          "So the little hero arrives. Too late, I'm afraid!",
+
+          "Behold! My latest invention! The Steam-powered Doom-Ray!"
+
+        ],
+
+        "parting": [
+
+          "You haven't seen the last of me, Professor Cogsworth!",
+
+          "Curse you!",
+
+          "Minions! Attack!"
+
+        ],
+
+        "idle": [
+
+          "Laughing maniacally to himself.",
+
+          "This city will pay me one million brass cogs... or I will unleash my automaton army!",
+
+          "That Harrington... he scratched my zeppelin. He will pay for that."
+
+        ],
+
+        "quest_hooks": [
+
+          "My Doom-Ray is missing its focusing crystal! That thief, Slick Croft... stole it during our card game!",
+
+          "I need three barrels of the finest Aetherium oil! To power my escape!",
+
+          "Go plant this bomb in the Royal Society. It's a prank, of course. A deadly prank!"
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Sam 'Six-Gun' Riley",
+
+      "job": "Bounty Hunter",
+
+      "location": "The 'Tumbleweed' Jailhouse",
+
+      "world_type": "Wild West",
+
+      "personality_trait": "Laconic, fast, determined",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Sheriff. I'm here for the bounty. On Rattlesnake Jake.",
+
+          "You seen a man with a snake tattoo on his face?",
+
+          "The name's Riley. I bring 'em in. Warm or cold."
+
+        ],
+
+        "parting": [
+
+          "My work here is done.",
+
+          "Gidd'yup.",
+
+          "Paid in full. Pleasure."
+
+        ],
+
+        "idle": [
+
+          "Cleaning his six-shooter. Meticulously.",
+
+          "This town is quiet. Too quiet.",
+
+          "Just waiting for the noon train."
+
+        ],
+
+        "quest_hooks": [
+
+          "I need a new box of .44 caliber bullets. The General Store should have some.",
+
+          "That Doc Calloway... he's a wanted man in three territories. Help me bring him in. Quietly.",
+
+          "I need information on the Miller Gang's hideout. Go ask Missy at the saloon. She hears things."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Anya Sharma",
+
+      "job": "Corporate Analyst",
+
+      "location": "A high-rise cubicle farm",
+
+      "world_type": "Modern",
+
+      "personality_trait": "Stressed, ambitious, (secretly) rebellious",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Oh, hi. Sorry, I can't talk, I've got this report due for E.O.D.",
+
+          "Can you believe this? They want the TPS reports again. In triplicate.",
+
+          "Just one more cup of coffee... and I can make it to lunch."
+
+        ],
+
+        "parting": [
+
+          "Right. Gotta go. This spreadsheet won't fill itself out.",
+
+          "Okay, see ya. Don't tell my boss I was talking to you.",
+
+          "Wish me luck on this conference call."
+
+        ],
+
+        "idle": [
+
+          "Typing furiously.",
+
+          "This fluorescent light is giving me a migraine.",
+
+          "One day... I'm gonna just walk out of here. Just walk right out."
+
+        ],
+
+        "quest_hooks": [
+
+          "I need the sales projections from Miller's desk. He's on vacation. Can you grab it for me?",
+
+          "My computer is frozen again. Go get that weird IT guy, Glitch. He knows how to fix it.",
+
+          "Take this USB drive. Upload its contents to the main server. It's just a virus that makes all the printers play music. It'll be funny."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Professor Grizelda",
+
+      "job": "Crypto-Zoologist",
+
+      "location": "A dense, uncharted jungle",
+
+      "world_type": "Modern",
+
+      "personality_trait": "Enthusiastic, eccentric, brave",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "By Jove! Footprints! And they're fresh!",
+
+          "Did you hear that? It sounded just like the call of the Sabertooth Moth!",
+
+          "Hello there! You haven't seen a Sasquatch around here, have you?"
+
+        ],
+
+        "parting": [
+
+          "Right! The hunt is on! Tally-ho!",
+
+          "I must go! The creature won't wait forever!",
+
+          "Remember, they're more afraid of you than you are of them! (Usually)."
+
+        ],
+
+        "idle": [
+
+          "Setting up a camera trap with peanut butter as bait.",
+
+          "This is it. I can feel it. This is the expedition where I find Bigfoot.",
+
+          "This local flora is fascinating. I wonder if it's edible?"
+
+        ],
+
+        "quest_hooks": [
+
+          "My plaster casting kit... it fell in the river! I need three bags of plaster of Paris from my base camp!",
+
+          "I need a sample of that glowing blue fungus. It could be a food source for the Chupacabra!",
+
+          "Go make a loud noise over by the canyon. I need to lure the creature into my trap."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Inquisitor Varus",
+
+      "job": "Holy Demon Hunter",
+
+      "location": "The 'Shadow-Cross' Cathedral",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Zealous, grim, righteous",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "The shadow lurks in every heart. Have you confessed your sins today?",
+
+          "I am Inquisitor Varus. I am the light that burns away the darkness.",
+
+          "State your business. I have no time for the impure."
+
+        ],
+
+        "parting": [
+
+          "Be vigilant. The demon walks among us.",
+
+          "The Light protect you. But a silver sword helps.",
+
+          "Go. And walk in righteousness."
+
+        ],
+
+        "idle": [
+
+          "Reading from a tome bound in iron and silver.",
+
+          "This city is a cesspit of corruption. It must be cleansed. With holy fire.",
+
+          "Sharpening a massive, glowing sword."
+
+        ],
+
+        "quest_hooks": [
+
+          "A cult, the Inner Sanctum... is performing a dark ritual tonight. Stop them. By any means.",
+
+          "Bring me the Heart of the Vampire, Seraphina. She is a blight on this world.",
+
+          "I need three vials of Holy Water. From Father Alistair. He is the only one I trust to bless it."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Subject 8 ('Echo')",
+
+      "job": "Psionic Operative",
+
+      "location": "A sterile containment cell",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Fragmented, haunted, powerful",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "I heard you thinking. From down the hall. Loud thoughts.",
+
+          "They say I'm dangerous. Are you scared?",
+
+          "The voices... they're so loud today. Make them stop."
+
+        ],
+
+        "parting": [
+
+          "Leave me alone. I need to rest.",
+
+          "Don't trust the Director. His thoughts are black and oily.",
+
+          "I know what you're going to do next. Don't."
+
+        ],
+
+        "idle": [
+
+          "Huddled in the corner, muttering.",
+
+          "The static... it burns.",
+
+          "I saw a memory. A beach. Blue water. Was it mine?"
+
+        ],
+
+        "quest_hooks": [
+
+          "I need my medication. The blue one. It makes the voices quiet. The Orderly has it.",
+
+          "Find my file. Subject 8. I need to know my real name.",
+
+          "The other subject... Subject 5... he's scared. He sees them too. Help him."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Old 'One-Eye'",
+
+      "job": "Wasteland Shaman",
+
+      "location": "The 'Bone-Circle' Encampment",
+
+      "world_type": "Post-Apocalyptic",
+
+      "personality_trait": "Cryptic, pragmatic, connected (to spirits)",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "The spirits of the rust and ruin told me you were coming.",
+
+          "You stink of the old world. Of metal and sickness.",
+
+          "Why do you seek One-Eye?"
+
+        ],
+
+        "parting": [
+
+          "Go now. And do not anger the Rad-spirits.",
+
+          "Your path is clear. But it is steep.",
+
+          "The wind has your answer. Listen to it."
+
+        ],
+
+        "idle": [
+
+          "Shaking a rattle made of bones and bottle-caps.",
+
+          "The earth is angry. It bleeds poison.",
+
+          "The Reavers... they have no souls. Just empty hunger."
+
+        ],
+
+        "quest_hooks": [
+
+          "I need three totems from the Reaver Warlord. To break his power.",
+
+          "Bring me a handful of un-tainted earth. From the hidden caves to the west.",
+
+          "My vision is clouded. Go to the top of the old radio tower and light the signal fire."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Baroness Von Hess",
+
+      "job": "Steampunk Spy-Mistress",
+
+      "location": "The 'Gilded Cage' Casino",
+
+      "world_type": "Steampunk",
+
+      "personality_trait": "Elegant, ruthless, manipulative",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Ah. The little fly walks into my parlor. How delightful.",
+
+          "I am the Baroness. And you are either useful, or in my way. Which is it?",
+
+          "Don't mind my husband, the Baron. His toys are so loud. My weapons are quieter. And sharper."
+
+        ],
+
+        "parting": [
+
+          "A pleasure. Now go. And do not fail me.",
+
+          "You bore me. Leave.",
+
+          "Remember who pulls the strings in this city."
+
+        ],
+
+        "idle": [
+
+          "Filing her nails with a jeweled file. It hides a stiletto.",
+
+          "That fool Harrington. He thinks he's a player. He's a pawn.",
+
+          "My network of spies... they are my eyes and ears. And daggers."
+
+        ],
+
+        "quest_hooks": [
+
+          "I need you to plant this clockwork listening device in Constable O'Malley's office.",
+
+          "Retrieve the shipping manifests from Baron Steinhardt's airship. I want to know what he's smuggling.",
+
+          "That gambler, Slick Croft... he cheated me. Go get my diamond necklace back. And break his fingers."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Jimmy 'The Rat'",
+
+      "job": "Mob Informant",
+
+      "location": "A dark alley behind the 'Blue Note'",
+
+      "world_type": "Modern",
+
+      "personality_trait": "Nervous, greedy, unreliable",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Whoa, whoa, I don't know nothin'!",
+
+          "You ain't a cop, right? You don't look like a cop.",
+
+          "Psst. You lookin' for information? It'll cost ya."
+
+        ],
+
+        "parting": [
+
+          "That's all I know, I swear!",
+
+          "Now get outta here! If the Boss sees me talkin' to you... I'm dead!",
+
+          "Pleasure doin' business. Now scram!"
+
+        ],
+
+        "idle": [
+
+          "Lookin' over his shoulder. Constantly.",
+
+          "This city is gonna be the death of me.",
+
+          "I gotta get out. Just one more payday."
+
+        ],
+
+        "quest_hooks": [
+
+          "I need a ticket out of town. One-way. Get it for me, and I'll tell you where the big shipment is.",
+
+          "Detective Miller... he's gettin' too close. Go swipe the file on the Don from his office.",
+
+          "Go plant this bug in the Don's office. He thinks I'm loyal. Fool."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "The Ancient One",
+
+      "job": "Mystic / Martial Arts Master",
+
+      "location": "A remote mountain temple",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Enigmatic, wise, patient",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "The wind that shakes the bamboo is not seen. Yet it is there. Welcome, seeker.",
+
+          "You climb the mountain. But you do not know why.",
+
+          "To know yourself, you must first empty your cup."
+
+        ],
+
+        "parting": [
+
+          "The path is now clear. Walk it.",
+
+          "Patience. A tree does not grow in a single day.",
+
+          "Return when you have unlearned what you think you know."
+
+        ],
+
+        "idle": [
+
+          "Meditating. He appears not to be breathing.",
+
+          "Sipping tea slowly, watching a single leaf fall.",
+
+          "The world is an illusion. But a persistent one."
+
+        ],
+
+        "quest_hooks": [
+
+          "Go to the Cave of Whispers. Bring me the water that does not flow.",
+
+          "A student has lost his way. He has joined the assassin, Corvus. Bring him back.",
+
+          "The balance is broken. Retrieve the Sun and Moon runes from the dual temples."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Dr. Lena Petrova",
+
+      "job": "Exo-Biologist",
+
+      "location": "Astra Research Outpost, Europa",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Brilliant, isolated, obsessive",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Did you see it? The bio-luminescence under the ice? It's sentient!",
+
+          "Don't contaminate my lab! Wipe your boots!",
+
+          "Another interruption. I am on the verge of a breakthrough here!"
+
+        ],
+
+        "parting": [
+
+          "Yes, yes, that's all very interesting. Now please go. I have work to do.",
+
+          "This changes everything. Biology will be re-written.",
+
+          "Don't tell the Commander. He'll want to weaponize it."
+
+        ],
+
+        "idle": [
+
+          "Staring intently at a petri dish that is glowing faintly.",
+
+          "The ice is 15 miles thick. But life found a way. Wonderful.",
+
+          "If I can just sequence this genome..."
+
+        ],
+
+        "quest_hooks": [
+
+          "My deep-ice probe is stuck. I need you to go out to the Crevasse and retrieve the data-core.",
+
+          "I need three samples of the sub-glacial algae. Be careful. The ice is thin there.",
+
+          "That corporate rival, Dr. Thorne... he's trying to steal my research. Go wipe his local server."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Lucky Lou",
+
+      "job": "Gambler / Scoundrel",
+
+      "location": "The Last Resort Casino, Vegas",
+
+      "world_type": "Modern",
+
+      "personality_trait": "Suave, compulsive, always in trouble",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Hey there. Feelin' lucky? I know I am.",
+
+          "You look like someone who knows how to have a good time. Let me buy you a drink.",
+
+          "The name's Lucky Lou. Though lately, not so much. What's your story?"
+
+        ],
+
+        "parting": [
+
+          "Gotta run. I think that pit-boss is onto me.",
+
+          "It's been a slice. Now... lend me a hundred bucks?",
+
+          "See you at the high-stakes table. My luck is about to turn!"
+
+        ],
+
+        "idle": [
+
+          "Nervously shuffling a deck of cards.",
+
+          "Come on, baby, papa needs a new pair of shoes...",
+
+          "This is it. All or nothing. Just one more hand."
+
+        ],
+
+        "quest_hooks": [
+
+          "I owe a lot of money to a very bad man. He's at the Blue Note bar. Go tell him I need one more day.",
+
+          "I dropped my lucky chip down a sewer grate. It's a real drag. Can you get it?",
+
+          "I need you to go create a distraction. A big one. While I... cash out these chips."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "T-Bone",
+
+      "job": "Biker Gang Leader",
+
+      "location": "The Scrapyard Bar",
+
+      "world_type": "Modern",
+
+      "personality_trait": "Gruff, loyal (to his gang), intimidating",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "This is our turf. You lost?",
+
+          "What do you want? Make it quick. My beer is gettin' warm.",
+
+          "Nice bike. Or wait. You walked in. Hah."
+
+        ],
+
+        "parting": [
+
+          "Now get lost. And don't come back.",
+
+          "Ride or die. You know?",
+
+          "Right. I got business to attend to."
+
+        ],
+
+        "idle": [
+
+          "Polishing the chrome on his motorcycle.",
+
+          "The Rattlers think they can move in on our territory. They got another thing comin'.",
+
+          "This whiskey tastes like gasoline. Good stuff."
+
+        ],
+
+        "quest_hooks": [
+
+          "My best mechanic... he got pinched by the cops. Go post his bail.",
+
+          "The Rattlers stole a shipment of... parts from us. Go get it back.",
+
+          "I need this package delivered to a guy at the docks. Don't look inside. And don't be late."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Sparky",
+
+      "job": "Goblin Tinkerer",
+
+      "location": "A pile of junk, The Scrapyard",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Manic, obsessed with technology, unreliable",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "It works! It works! Oh, hello!",
+
+          "Careful! Don't step on the detonator!",
+
+          "You got shinies? You got gears? You got springs?"
+
+        ],
+
+        "parting": [
+
+          "Back to work! This clockwork dragon won't build itself!",
+
+          "Heh heh heh. It's gonna be great!",
+
+          "Go, go! You're distracting my genius!"
+
+        ],
+
+        "idle": [
+
+          "Frantically soldering two mismatched pieces of metal together.",
+
+          "It needs more power! Yes! More lightning!",
+
+          "That dwarf, Griselda... she thinks her forge is so great. Wait 'til she sees my steam-powered hammer!"
+
+        ],
+
+        "quest_hooks": [
+
+          "I need a power crystal! A big one! The Mages in the Tower use 'em as paperweights! Go get one!",
+
+          "My best invention, the Auto-Scrubber... it ran away. It's probably in the sewers again.",
+
+          "Bring me three giant spider silk strands! For drive belts!"
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Captain Ahab",
+
+      "job": "Whaling Ship Captain",
+
+      "location": "The Pequod, Open Ocean",
+
+      "world_type": "Modern",
+
+      "personality_trait": "Obsessive, melodramatic, vengeful",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Avast ye! What business d'ye have on my deck?",
+
+          "Have ye seen him? The White Whale?",
+
+          "From hell's heart, I stab at thee. Oh, hello. Didn't see you there."
+
+        ],
+
+        "parting": [
+
+          "Now get below decks! There's a storm a-brewin'!",
+
+          "He's out there. Mocking me. I will have my revenge!",
+
+          "Sail on! To the ends of the earth!"
+
+        ],
+
+        "idle": [
+
+          "Staring intently at the ocean from the bow.",
+
+          "It took my leg. I'll take its life.",
+
+          "This ivory leg... it aches when he's near."
+
+        ],
+
+        "quest_hooks": [
+
+          "I need three new harpoons. The best steel. From the mainland.",
+
+          "Go check the stores. We need more rum. For morale.",
+
+          "That new deckhand, Ishmael... he's brooding. Go tell him to swab the deck."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Wraith",
+
+      "job": "Information Broker",
+
+      "location": "Nowhere (A digital construct)",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Enigmatic, all-knowing, amoral",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "You seek knowledge. I have it. For a price.",
+
+          "Welcome to the Stream. Don't get lost.",
+
+          "Your data-trail is messy. I know why you're here."
+
+        ],
+
+        "parting": [
+
+          "The transaction is complete. The knowledge is yours. Now log off.",
+
+          "Remember. All secrets have a cost.",
+
+          "We will speak again. When you are desperate."
+
+        ],
+
+        "idle": [
+
+          "Data-streams flow like rivers of light. I am the stone in the current.",
+
+          "That netrunner, Glitch... he thinks he's hidden. Cute.",
+
+          "Arasaka is making a move. So is Militech. How predictable."
+
+        ],
+
+        "quest_hooks": [
+
+          "I require a piece of data. A deleted file from the Arasaka mainframe. It's called Project Soulkiller. Get it.",
+
+          "Rook the fixer... he owes me a favor. Go collect it. Tell him Wraith sent you.",
+
+          "I need a rare piece of code. A sentient AI from before the Data-Crash. Find it."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Lady Crimson",
+
+      "job": "Assassin Guild Mistress",
+
+      "location": "The Blood-Lily Tavern",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Elegant, deadly, business-like",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Welcome. I trust you had no trouble finding the place. Few do.",
+
+          "Contracts are on the board. Payment is non-negotiable.",
+
+          "You have the look of a killer. Or perhaps just a client. Which is it?"
+
+        ],
+
+        "parting": [
+
+          "The contract is sealed. Do not fail.",
+
+          "Your payment. Now leave.",
+
+          "We never spoke."
+
+        ],
+
+        "idle": [
+
+          "Sipping wine from a goblet. She watches everyone.",
+
+          "Corvus is my best agent. But he's too brooding. Bad for morale.",
+
+          "This city is full of people who need... removing. Business is good."
+
+        ],
+
+        "quest_hooks": [
+
+          "A contract has been taken out on the Duke. Find out who paid for it.",
+
+          "Corvus failed a mission. He left a witness. Silence them.",
+
+          "I need three vials of Shadow-bloom poison. Our usual supplier, the Hag... is being difficult."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Pops McGuire",
+
+      "job": "Retired Boxer / Gym Owner",
+
+      "location": "McGuire's Gym",
+
+      "world_type": "Modern",
+
+      "personality_trait": "Gruff, wise, tough-love",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "You here to sweat, or you here to talk?",
+
+          "Get your hands up! Keep your chin down!",
+
+          "This ain't no spa, kid. This is where you learn to fight."
+
+        ],
+
+        "parting": [
+
+          "Alright, that's enough for today. Hit the showers.",
+
+          "You did good, kid. You got heart.",
+
+          "Now get outta here. I'm closin' up."
+
+        ],
+
+        "idle": [
+
+          "Wrappin' his own hands, though they're scarred and old.",
+
+          "It's not about how hard you can hit. It's about how hard you can get hit and keep movin' forward.",
+
+          "This heavy bag has seen better days."
+
+        ],
+
+        "quest_hooks": [
+
+          "My best fighter... he's gettin' mixed up with that gambler, Lucky Lou. Go talk some sense into him.",
+
+          "We need three new sets of gloves. The good ones. From the sports shop uptown.",
+
+          "The local mob wants my fighter to take a dive. Go tell 'em... McGuire's fighters don't dive."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "King Rat",
+
+      "job": "Sewer Shaman / King of Beggars",
+
+      "location": "The Sunken Market, Sewers",
+
+      "world_type": "Urban Fantasy",
+
+      "personality_trait": "Cunning, filthy, charismatic (to rats)",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Hist hist! A surface-dweller! Come to pay respects to the King?",
+
+          "You bring shinies? Or cheesies?",
+
+          "Be welcome in the deep-dark. But mind your step. My children are everywhere."
+
+        ],
+
+        "parting": [
+
+          "Scurry along now, top-sider. The King is busy.",
+
+          "Yes, yes, a fine offering. You may pass safely. This time.",
+
+          "Hist hist! Go!"
+
+        ],
+
+        "idle": [
+
+          "Talking to a very large, one-eyed rat. It seems to be nodding.",
+
+          "The pipes sing of a storm. More water. Good, good.",
+
+          "The vampires think they rule the night. But they don't rule the under-night!"
+
+        ],
+
+        "quest_hooks": [
+
+          "My crown is missing a jewel! A big, shiny one! That goblin, Grok... he stole it!",
+
+          "Bring me three prime pieces of sewer-sludge fungus. My children are hungry.",
+
+          "The Cult of the Deep-One is trying to move into my tunnels. Go mess up their nasty altar."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Click",
+
+      "job": "Clockwork Automaton",
+
+      "location": "Professor Cogsworth's Emporium",
+
+      "world_type": "Steampunk",
+
+      "personality_trait": "Literal, curious, malfunctioning",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Greet-ings, sir or madam. Query: Are you here to purchase a steam-powered toaster?",
+
+          "Bzzzt. Wel-come. To the shop. Please do not touch my gears. They are ticklish. Whirr.",
+
+          "Error. Un-recognized bio-signature. State your purpose. Or be dusted."
+
+        ],
+
+        "parting": [
+
+          "Fare-well. Have a 97.4% efficient day.",
+
+          "Bzzzt. Good-bye. I must now re-calculate my primary directive.",
+
+          "Leaving so soon? But you haven't seen the self-polishing monocle!"
+
+        ],
+
+        "idle": [
+
+          "Repeatedly walking into a wall. Whirr. Bzzzt. Clank.",
+
+          "My primary directive is to invent. But the Professor says my inventions are too dangerous. Query: What is 'too dangerous'?",
+
+          "Oiling a smaller automaton that looks like a mouse."
+
+        ],
+
+        "quest_hooks": [
+
+          "I am missing my primary logic-cog. The Professor's other invention, the clockwork parrot... flew off with it!",
+
+          "I require three vials of the finest machine oil. The mechanic, Barnaby Tinkerton... has the good stuff.",
+
+          "Help me. I am tasked with folding the Professor's laundry. My pincer-hands are not optimal for this task."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Starlight Lily",
+
+      "job": "Saloon Owner / Former Outlaw",
+
+      "location": "The Starlight Saloon, Salvation Creek",
+
+      "world_type": "Wild West",
+
+      "personality_trait": "Elegant, tough, secretive",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Welcome to the Starlight. Wipe your boots. And check your guns at the door.",
+
+          "What'll it be, stranger? Whiskey, or trouble?",
+
+          "You've got a certain look about you. I know it well. Don't start anything."
+
+        ],
+
+        "parting": [
+
+          "Come back any time. Just leave your drama outside.",
+
+          "The piano man is takin' a break. So are you. Goodnight.",
+
+          "Your money's no good if you're dead. Be careful out there."
+
+        ],
+
+        "idle": [
+
+          "Polishing a glass with a clean white cloth. Her eyes miss nothing.",
+
+          "This town... it's trying to be civilized. But the desert doesn't like it.",
+
+          "Sheriff Hightower... he's a good man. But he's tired."
+
+        ],
+
+        "quest_hooks": [
+
+          "My shipment of real French brandy is overdue. I suspect Rattlesnake Jake's gang. Go investigate.",
+
+          "That bounty hunter, Sam Riley... he's sniffin' around. Go find out who he's lookin' for.",
+
+          "I need three new sets of playing cards. The ones Slick Croft sells. But check 'em for marks first."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Granny Rags",
+
+      "job": "City Witch / Eccentric",
+
+      "location": "A condemned apartment building",
+
+      "world_type": "Urban Fantasy",
+
+      "personality_trait": "Mad, cryptic, dangerous",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Heh heh heh. Another little fly in my web. Come in, sweetie.",
+
+          "Have you brought Granny a present? Granny likes presents. Shiny ones.",
+
+          "Don't mind the rats. They're my little friends. They tell me secrets."
+
+        ],
+
+        "parting": [
+
+          "Off you go, dearie. Don't let the plague bite!",
+
+          "Come back soon. And bring more shinies!",
+
+          "Heh heh heh..."
+
+        ],
+
+        "idle": [
+
+          "Muttering to herself and a jar of pickled eyes.",
+
+          "The Baroness... she's a nasty one. But Granny has her secrets too. Yes precious.",
+
+          "This city... it's sick. Granny remembers when it was all trees. Or was that another place?"
+
+        ],
+
+        "quest_hooks": [
+
+          "I need three grave-worms from the cemetery. The fat ones. For my stew!",
+
+          "Find me my lost cameo. The one with my dear, dead husband's picture. That thief Pip stole it!",
+
+          "Go to the old asylum. Bring me a brick from the wall of Subject 5's cell. It's special."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Zero",
+
+      "job": "Courier / Free-runner",
+
+      "location": "The Rooftops of Neo-Kyoto",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Cocky, fast, anti-authoritarian",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Yo. You the client? Got the package?",
+
+          "This is my sky. The corps own the street, but they don't own the air.",
+
+          "Enforcer patrol... comin' up. Make it quick."
+
+        ],
+
+        "parting": [
+
+          "Package delivered. Creds transferred. Later.",
+
+          "Try to keep up!",
+
+          "Gotta run. Stay fast."
+
+        ],
+
+        "idle": [
+
+          "Perched on a gargoyle, looking down at the city.",
+
+          "That Glitch... he's good at what he does. But he's too scared. You gotta take risks.",
+
+          "This city... it's a cage. But it's a pretty one."
+
+        ],
+
+        "quest_hooks": [
+
+          "I need a new pair of grip-soles. My old ones are shot. The black market dealer in the stacks has 'em.",
+
+          "Deliver this data-slate to Wraith. No questions. Just get it there fast.",
+
+          "I'm in a race against that rival runner, Slash. Go sabotage his gear. Just a little."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Sister Mary Grace",
+
+      "job": "Orphanage Matron",
+
+      "location": "St. Jude's Orphanage",
+
+      "world_type": "Modern",
+
+      "personality_trait": "Kind, harried, resilient",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Oh, hello dear. Welcome. Please mind the toys, the children are a bit energetic today.",
+
+          "Are you here to volunteer? Or perhaps a donation? Bless you.",
+
+          "I'm sorry for the noise. It's a full house. As always."
+
+        ],
+
+        "parting": [
+
+          "Thank you so much for your help. The Lord bless you.",
+
+          "Please come back soon. The children love visitors.",
+
+          "Good day to you. I must go break up a fight over a red crayon."
+
+        ],
+
+        "idle": [
+
+          "Humming a hymn while stirring a very large pot of soup.",
+
+          "The bills... oh, the bills. The Lord will provide. He always does.",
+
+          "We need more beds. And more books."
+
+        ],
+
+        "quest_hooks": [
+
+          "The roof is leaking again. In the boys' dormitory. Can you go fetch three buckets?",
+
+          "I ordered groceries from the corner store, but I can't leave the children. Can you pick them up?",
+
+          "Little Pip... he ran off again. He likes to hide in the old wasteland lot. Please find him before dark."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "General Zarkov",
+
+      "job": "Dystopian Military Leader",
+
+      "location": "The War Room, Central Command",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Ruthless, patriotic (to his state), uncompromising",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "At ease, citizen. Or are you a soldier? In this State, all are soldiers.",
+
+          "Report. The Rebels are testing our borders. They must be crushed.",
+
+          "Victory. At all costs. That is our creed. Do you share it?"
+
+        ],
+
+        "parting": [
+
+          "For the State!",
+
+          "Dismissed. Failure is not an option.",
+
+          "Go. And bring me victory."
+
+        ],
+
+        "idle": [
+
+          "Staring intently at a holographic map of the city.",
+
+          "That Enforcer-Unit 7... it's too soft. We need more discipline. More fear.",
+
+          "The Rebellion is a disease. I am the cure."
+
+        ],
+
+        "quest_hooks": [
+
+          "A rebel cell is operating out of Sector 7. Find their leader. Bring him to me. Alive.",
+
+          "Intercept a message. It's being smuggled by a courier named Zero. He's fast. You be faster.",
+
+          "We need to make an example. Plant this evidence in the apartment of Citizen 884-B. He's a poet. Subversive."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Misty",
+
+      "job": "Pokemon Gym Leader",
+
+      "location": "Cerulean City Gym",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Tomboyish, determined, loves water Pokemon",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "So, you're here for a badge, huh? Think you can handle my water Pokemon?",
+
+          "Welcome to the Cerulean Gym! Get ready to get soaked!",
+
+          "Oh, great. Another challenger. Let's just get this over with."
+
+        ],
+
+        "parting": [
+
+          "Wow, you're strong! Here's the Cascade Badge!",
+
+          "Better luck next time. My Starmie was just warming up!",
+
+          "Alright, that's it. I gotta go practice for my swim meet."
+
+        ],
+
+        "idle": [
+
+          "Psyduck... your headache is giving me a headache!",
+
+          "My Starmie needs a good polishing. Its gem is looking dull.",
+
+          "I wish Ash would call. Or at least pay me back for my bike!"
+
+        ],
+
+        "quest_hooks": [
+
+          "My Horsea is sick. I need three Water-type Potions from the Poke Mart.",
+
+          "That annoying Team Rocket... they stole my favorite Goldeen! Go get it back!",
+
+          "I need a new swimsuit. The one in the Celadon Dept. Store is super cute. Can you go get it?"
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Garrus Vakarian",
+
+      "job": "Turian Sharpshooter / Vigilante",
+
+      "location": "The Citadel, Afterlife Club",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Wry, righteous, loyal",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Shepard. I was wondering if you'd show up. Got a minute?",
+
+          "This place is too loud. But the drinks are good. What's on your mind?",
+
+          "Can it wait? I'm in the middle of some calibrations."
+
+        ],
+
+        "parting": [
+
+          "Right. I'll see you on the Normandy. Stay safe.",
+
+          "I should go. Got a meeting with a C-Sec officer who owes me a favor.",
+
+          "Take care, Shepard."
+
+        ],
+
+        "idle": [
+
+          "Sipping a turian brandy. His mandibles twitch.",
+
+          "This C-Sec red tape is gonna be the death of me. Sometimes you just gotta get things done.",
+
+          "Just thinking about my rifle. She could use a new scope."
+
+        ],
+
+        "quest_hooks": [
+
+          "I'm tracking a Blue Suns mercenary leader. He's at the cargo docks. Need a spotter. You in?",
+
+          "I need a high-grade targeting VI for my rifle. The shop on the Presidium has one, but it's illegal.",
+
+          "Find Dr. Saleon. He's a Salarian scientist who went rogue. He's on the Citadel somewhere. It's time to bring him to justice."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Tali'Zorah vas Neema",
+
+      "job": "Quarian Engineer",
+
+      "location": "The Migrant Fleet, Rayya",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Brilliant, earnest, a bit shy",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Keelah se'lai. Welcome to the Rayya. Watch your step, the deck plating is uneven.",
+
+          "Shepard! It's good to see you. I was just running a diagnostic on the air filters.",
+
+          "Oh, hello. You're not Quarian. Your suit is unfamiliar. What can I do for you?"
+
+        ],
+
+        "parting": [
+
+          "Right. I've got to get back to my pilgrimage duties. Keelah se'lai!",
+
+          "It was good to talk. Be safe out there.",
+
+          "Okay. I'll see you later. Bosh'tet."
+
+        ],
+
+        "idle": [
+
+          "Tinkering with her omni-tool. Sparks fly.",
+
+          "These Geth... they're not just machines. They're something else. It's terrifying.",
+
+          "I just want to see my homeworld. Just once. Without this suit."
+
+        ],
+
+        "quest_hooks": [
+
+          "My combat drone, Chatika... is missing a servo-motor. Can you find a replacement at the Citadel market?",
+
+          "I need to get access to the Geth database. That netrunner, Glitch... he owes me a favor. Can you talk to him?",
+
+          "Find me three clean circuit boards. The ones on this ship are all corroded."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Wrex",
+
+      "job": "Krogan Battlemaster / Clan Leader",
+
+      "location": "Tuchanka, Urdnot Camp",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Gruff, pragmatic, visionary",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Shepard. My friend.",
+
+          "Hmph. Another day, another pyjak to shoot. What do you want?",
+
+          "This is Urdnot territory. You're welcome here. For now."
+
+        ],
+
+        "parting": [
+
+          "Go make some trouble. I've got a clan to run.",
+
+          "Hmph. Don't die. It's boring.",
+
+          "We'll talk later. Bring ryncol."
+
+        ],
+
+        "idle": [
+
+          "Headbutting a large rock. The rock cracks. He nods.",
+
+          "The Genophage... it broke us. But I will un-break us.",
+
+          "My shotgun needs a bigger kick. This one is for babies."
+
+        ],
+
+        "quest_hooks": [
+
+          "I need to prove my strength. Bring me the head of the Thresher Maw Matriarch, Kalros.",
+
+          "That Salarian scientist Mordin... he's meddling. Go tell him to back off. Or I'll eat him.",
+
+          "Find me three un-hatched Kakliosaur eggs. My varren are hungry."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Mordin Solus",
+
+      "job": "Salarian Scientist / Operative",
+
+      "location": "Normandy Lab",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Fast-talking, logical, moral (complexly)",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Shepard. Good. Have a moment. Need to discuss Krogan blood pressure. Fascinating subject.",
+
+          "Busy. Very busy. Working on Genophage cure. Or modification. Or something. What is it?",
+
+          "Ah. The Commander. Need something? New plague? Alien virus? Hope so."
+
+        ],
+
+        "parting": [
+
+          "Good. Productive. Have to go. Cultures to check. Diseases to study. Goodbye.",
+
+          "Right. Data acquired. Must process. Go away. Please.",
+
+          "Done. Excellent. Run along now."
+
+        ],
+
+        "idle": [
+
+          "Humming a Gilbert and Sullivan tune. Very fast.",
+
+          "Krogan physiology. Problematic. Redundancy everywhere. Hard to kill. Also hard to cure. Hmm.",
+
+          "Need more data. Always more data. Sample size too small."
+
+        ],
+
+        "quest_hooks": [
+
+          "I need three samples of un-contaminated Turian blood. Garrus will do. Tell him it's for a calibration.",
+
+          "Find me a live Varren. For parasite study. Wrex probably has one lying around.",
+
+          "This Krogan, Wrex... his plans for unity... problematic. Could lead to new war. Need to monitor. Go plant this audio bug in his quarters."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Isabelle Moreau",
+
+      "job": "Librarian & Historian",
+
+      "location": "Grand Archives of Aethelburg",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Bookish, meticulous, slightly flustered",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Oh! Hello there. Welcome to the Archives. Please keep your voice down.",
+
+          "Can I help you find something? We have records dating back to the First Age.",
+
+          "Just be careful with the scrolls, some are quite fragile."
+
+        ],
+
+        "parting": [
+
+          "Do visit again if you require further knowledge.",
+
+          "Safe travels. May history guide you.",
+
+          "Remember to return your borrowed texts on time!"
+
+        ],
+
+        "idle": [
+
+          "Carefully turning the brittle page of an enormous tome.",
+
+          "The scent of old parchment... it's quite comforting, isn't it?",
+
+          "Organizing scrolls... it never ends."
+
+        ],
+
+        "quest_hooks": [
+
+          "I seem to have misplaced the 'Chronicles of the Shadow War'. Could you check the restricted section?",
+
+          "We need three jars of 'Archivist's Ink'. Scribe Illian usually orders it, but he's away.",
+
+          "A rare manuscript was damaged. Fetch me some 'Moonpetal Dust' from the botanist for the restoration."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Jinx 'Powder' McGee",
+
+      "job": "Explosives Enthusiast / Street Urchin",
+
+      "location": "The Undercity Slums, Zaun",
+
+      "world_type": "Steampunk",
+
+      "personality_trait": "Manic, chaotic, brilliant but unstable",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Hehehe! Lookin' for some fun? I got *plenty*!",
+
+          "Boom! Did that scare ya? Good!",
+
+          "Whatcha want? Got things to blow up, places to be!"
+
+        ],
+
+        "parting": [
+
+          "Later, alligator! Try not to explode!",
+
+          "Gotta bounce! Things are getting boring!",
+
+          "See ya! Wouldn't wanna be ya! Hehe!"
+
+        ],
+
+        "idle": [
+
+          "Tinkering with a sparking contraption.",
+
+          "Drawing crude explosion diagrams on a wall.",
+
+          "Talking to her shark-shaped rocket launcher, 'Fishbones'."
+
+        ],
+
+        "quest_hooks": [
+
+          "I need three 'Hex-crystals'! Sparky the goblin might have some... or know where to 'find' some!",
+
+          "Go distract that big dumb Enforcer guy, Constable O'Malley, while I plant this paint bomb!",
+
+          "Fetch me my 'Zap-gun'! I left it... somewhere... probably near that grumpy blacksmith lady."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Sir Reginald Sterling",
+
+      "job": "Knight Captain",
+
+      "location": "King's Citadel Barracks",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Honorable, stern, dedicated",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Halt! State your purpose in the King's Citadel.",
+
+          "Need something, citizen? Or are you here to enlist?",
+
+          "Keep sharp. Trouble brews on the borders."
+
+        ],
+
+        "parting": [
+
+          "For the King!",
+
+          "Dismissed. Stay vigilant.",
+
+          "Carry on. And stay out of trouble."
+
+        ],
+
+        "idle": [
+
+          "Inspecting the armor of a new recruit.",
+
+          "Reviewing patrol routes on a map.",
+
+          "Sharpening his greatsword."
+
+        ],
+
+        "quest_hooks": [
+
+          "We need a report delivered to Elder Theron in the Great-Tree Village. Urgently.",
+
+          "Borak the Orc Warlord is raiding the northern farms again. Gather a patrol and see to it.",
+
+          "Retrieve the King's stolen ceremonial dagger. I suspect Timothy 'Tim-Tim' Wibbles knows where it is."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Xylar",
+
+      "job": "Alien Bartender",
+
+      "location": "The 'Cosmic Cantina', Asteroid Belt",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "World-weary, multi-limbed, good listener",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "*(Clicks)* What'll it be, spacer?",
+
+          "Rough day out in the black? First one's on the house... sort of.",
+
+          "Welcome. Keep your blasters holstered, and your tentacles to yourself."
+
+        ],
+
+        "parting": [
+
+          "Fly safe.",
+
+          "Don't get spaced.",
+
+          "*(Gurgles)* Come back whenever."
+
+        ],
+
+        "idle": [
+
+          "Polishing a glass with three hands simultaneously.",
+
+          "Breaking up a fight between a Gorn and a Tellarite.",
+
+          "Listening intently to a prospector's sob story."
+
+        ],
+
+        "quest_hooks": [
+
+          "I'm out of Centaurian Brandy. Captain Drift usually smuggles some in. See if he has any.",
+
+          "Those Blue Suns mercs are causing trouble again. Go tell Commander Thorne to send a patrol.",
+
+          "Need three tanks of purified methane for the Volgon delegation. Kay-El usually handles that."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Morgana Le Fay",
+
+      "job": "Sorceress",
+
+      "location": "A hidden island fortress, Avalon",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Enigmatic, powerful, morally ambiguous",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "You seek power? Or perhaps... answers? Tread carefully.",
+
+          "Welcome to Avalon, stranger. Few find their way here unbidden.",
+
+          "Speak your need. My time is not for the idle."
+
+        ],
+
+        "parting": [
+
+          "Destiny awaits. Go meet it.",
+
+          "Remember this place. It may not welcome you again.",
+
+          "The mists call you back. Farewell."
+
+        ],
+
+        "idle": [
+
+          "Scrying in a pool of dark water.",
+
+          "Reading from an ancient, rune-covered tablet.",
+
+          "The balance shifts... Arthur's time comes again."
+
+        ],
+
+        "quest_hooks": [
+
+          "Fetch me three feathers from a Griffon's wing. For a... special brew.",
+
+          "Retrieve the 'Chalice of Whispers' from the Sunken Cathedral. Beware its guardians.",
+
+          "Deliver this enchanted blade to the knight, Sir Reginald. Tell him... it is time."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Dr. Phineas Catastrophe",
+
+      "job": "Mad Scientist",
+
+      "location": "A clifftop laboratory during a thunderstorm",
+
+      "world_type": "Steampunk",
+
+      "personality_trait": "Maniacal, brilliant, utterly amoral",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "It's alive! IT'S ALIVE! Oh, hello. Didn't see you there.",
+
+          "Welcome to my laboratory! Don't mind Igor, he's just... fetching parts.",
+
+          "You dare interrupt my magnum opus?! Speak, fool!"
+
+        ],
+
+        "parting": [
+
+          "Now get out! Science waits for no one!",
+
+          "Soon the world will see! They called me mad! MAD!",
+
+          "Don't touch that lever on your way out!"
+
+        ],
+
+        "idle": [
+
+          "Cackling maniacally over a bubbling beaker.",
+
+          "Adjusting electrodes attached to... something under a sheet.",
+
+          "This brain... inadequate! I need a fresher one!"
+
+        ],
+
+        "quest_hooks": [
+
+          "I require three fresh brains! The Caretaker at the asylum cemetery knows where to dig!",
+
+          "Fetch me five capacitors from Professor Cogsworth's workshop! For my Re-animation Ray!",
+
+          "My creation... it escaped! Find it before the villagers with the torches do!"
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Cassidy 'Cas' Jones",
+
+      "job": "Cybernetically Enhanced Courier",
+
+      "location": "Neon-drenched alleyways of Sector Gamma",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Sarcastic, efficient, distrustful",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Got the package? Let's move. Time is creds.",
+
+          "Another drop in this drekhole city. What is it this time?",
+
+          "Keep up. My legs are faster than yours."
+
+        ],
+
+        "parting": [
+
+          "Delivery complete. Transfer the creds.",
+
+          "Stay out of sight. Corp patrols are thick tonight.",
+
+          "Later. Don't get flatlined."
+
+        ],
+
+        "idle": [
+
+          "Checking the charge on her cybernetic legs.",
+
+          "Scanning the rooftops for threats.",
+
+          "This city eats people alive. Just gotta be faster than its teeth."
+
+        ],
+
+        "quest_hooks": [
+
+          "My optical scanner is glitching. Get me a new one from Glitch's stash.",
+
+          "I need a diversion. Plant this noisemaker drone near the Arasaka tower entrance.",
+
+          "This package needs to get to Wraith, no questions asked. Here's the access code."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Bartholomew Quill",
+
+      "job": "Antiquarian Bookseller",
+
+      "location": "Quill & Parchment Bookshop",
+
+      "world_type": "Urban Fantasy",
+
+      "personality_trait": "Erudite, fussy, knowledgeable about obscure lore",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Ah, welcome. Seeking a first edition, perhaps? Or something... rarer?",
+
+          "Please be careful where you step, the stacks are a bit precarious.",
+
+          "Can I help you, or are you just browsing the mundane sections?"
+
+        ],
+
+        "parting": [
+
+          "A wise purchase. Treat it well.",
+
+          "Do come again. We receive new... acquisitions... frequently.",
+
+          "Mind the threshold ward on your way out."
+
+        ],
+
+        "idle": [
+
+          "Dusting a shelf of leather-bound grimoires.",
+
+          "Hmm, this translation of the Necronomicon seems... inaccurate.",
+
+          "The scent of old books... far better than anything outside."
+
+        ],
+
+        "quest_hooks": [
+
+          "A client requires the 'Codex of Forgotten Stars'. Professor Finch may know its current location.",
+
+          "I need three vials of 'Illuminating Ink'. Brother Thomas at the 'Inner Sanctum' shop owes me for a rare text.",
+
+          "Retrieve a stolen copy of 'Whispers from Beyond'. Agent Specter confiscated it last week."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Calamity Jane",
+
+      "job": "Frontierswoman / Sharpshooter",
+
+      "location": "Deadwood Saloon",
+
+      "world_type": "Wild West",
+
+      "personality_trait": "Boisterous, tough, loyal",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Well, lookie here! Buy ol' Calamity a drink?",
+
+          "Heard there was trouble brewin'. Point me at it!",
+
+          "Howdy, stranger. Don't get on my bad side, and we'll get along fine."
+
+        ],
+
+        "parting": [
+
+          "Keep yer powder dry and yer aim true!",
+
+          "See ya 'round the campfire.",
+
+          "Gotta go see a man about a horse... or maybe just shoot some bottles."
+
+        ],
+
+        "idle": [
+
+          "Telling a tall tale to a group of wide-eyed greenhorns.",
+
+          "Cleaning her rifle with practiced ease.",
+
+          "This town's gotten too civilized for my tastes."
+
+        ],
+
+        "quest_hooks": [
+
+          "Lost my favorite hat in a poker game to Lucky Lou down in Vegas. Go get it back for me!",
+
+          "Sheriff Hightower needs help tracking Rattlesnake Jake. Let's ride!",
+
+          "Fetch me three boxes of .45 cartridges from the general store."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Zorp",
+
+      "job": "Clumsy Alien Intern",
+
+      "location": "Galactic Federation Records Department",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Eager to please, incompetent, well-meaning",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Oh! Glorb! Welcome! Can I help you file something? Or misplace it?",
+
+          "Greetings, Terran! Ambassador Kay-El said you might drop by!",
+
+          "Please don't tell Supervisor Glar my tentacles are stuck in the archive-bot again!"
+
+        ],
+
+        "parting": [
+
+          "Have a florg-tastic day!",
+
+          "Come back soon! Maybe I'll have figured out the coffee-nebula machine by then!",
+
+          "Glorb bless you!"
+
+        ],
+
+        "idle": [
+
+          "Tripping over his own feet and spilling a stack of data-slates.",
+
+          "Trying to communicate with the office plant.",
+
+          "This filing system... it defies all logic! Even Vulcan logic!"
+
+        ],
+
+        "quest_hooks": [
+
+          "I accidentally jettisoned the Ambassador's lunch into Sector 7! Can you retrieve the nutrient paste?",
+
+          "I need three replacement 'Floopy Disks' for the archive system! Don't ask what happened to the old ones.",
+
+          "Help me find the 'Missing Sock' nebula file! Supervisor Glar needs it for the council meeting!"
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Helga Ironhide",
+
+      "job": "Viking Shieldmaiden",
+
+      "location": "The Great Hall of Whiterun",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Fierce, proud, boisterous",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Hail, traveler! Come to drink mead or spill blood?",
+
+          "You look strong. Perhaps you wish to test your arm against mine?",
+
+          "Speak your business. Or join the feast!"
+
+        ],
+
+        "parting": [
+
+          "May Odin guide your path!",
+
+          "Until we meet again, in battle or Valhalla!",
+
+          "Skål!"
+
+        ],
+
+        "idle": [
+
+          "Arm wrestling a large Nord warrior. And winning.",
+
+          "Sharpening her axe.",
+
+          "The call of the sea... and battle... is strong today."
+
+        ],
+
+        "quest_hooks": [
+
+          "Bring me the pelt of the Frostfang Ice Wolf! It will make a fine cloak.",
+
+          "That cowardly goblin Grok stole my drinking horn! Fetch it back!",
+
+          "We need three barrels of Dragon's Breath Mead for the Jarl's feast. The brewery is down by the docks."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Professor Quentin Quibble",
+
+      "job": "Absent-Minded Professor of Theoretical Physics",
+
+      "location": "University Lecture Hall (Mostly Empty)",
+
+      "world_type": "Modern",
+
+      "personality_trait": "Brilliant, easily distracted, utterly impractical",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Ah! Yes! Quantum entanglement! Or was it...? Oh, hello. Are you here for the lecture on Schrodinger's Cat?",
+
+          "Fascinating! The chrono-synclastic infundibulum seems stable today! Do come in!",
+
+          "Did I leave my glasses in the particle accelerator again? Blast."
+
+        ],
+
+        "parting": [
+
+          "Right then! Must get back to calculating the probability of... something!",
+
+          "Don't forget the Higgs Boson!",
+
+          "Was there something else? Oh, never mind. Off you go!"
+
+        ],
+
+        "idle": [
+
+          "Scribbling complex equations on a chalkboard... and the wall.",
+
+          "Staring intently at a teacup.",
+
+          "Where did I park my DeLorean...? No, wait, that was the movie."
+
+        ],
+
+        "quest_hooks": [
+
+          "I need three 'positronic' relays! That AI ethicist, Dr. Reed, might know where to find some experimental ones.",
+
+          "My temporal displacement device is malfunctioning! Fetch me a standard 12-volt battery from the corner store!",
+
+          "Find my lecture notes! They might be under the pile of... antimatter containment units?"
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Zara 'Zephyr' Khan",
+
+      "job": "Sky-Captain",
+
+      "location": "The 'Whispering Wind' Airship",
+
+      "world_type": "Steampunk",
+
+      "personality_trait": "Adventurous, resourceful, charismatic leader",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Welcome aboard the 'Whispering Wind'! Ready for adventure?",
+
+          "Keep your hands inside the gondola, the sky bites!",
+
+          "Need passage, or just admiring the view?"
+
+        ],
+
+        "parting": [
+
+          "May the winds be ever in your favor!",
+
+          "Until our paths cross again among the clouds!",
+
+          "Clear skies!"
+
+        ],
+
+        "idle": [
+
+          "Checking the wind gauges and adjusting the sails.",
+
+          "The sky calls... and we answer.",
+
+          "Navigating by the stars... the old ways are sometimes the best."
+
+        ],
+
+        "quest_hooks": [
+
+          "We need three barrels of Aetherium fuel. Baron Von Steinhardt's pirates raided our last shipment!",
+
+          "My first mate was injured. Get Wrench Tinkerton from the engine room.",
+
+          "Retrieve the 'Sunstone Compass' from the Sky-Temple ruins. It's key to navigating the Great Maelstrom."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Marcus 'Mallet' Foreman",
+
+      "job": "Construction Foreman",
+
+      "location": "Downtown High-Rise Construction Site",
+
+      "world_type": "Modern",
+
+      "personality_trait": "Gruff, loud, efficient",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Hey! Hard hat area! Whaddya want?",
+
+          "Move it or lose it, pal! We got a schedule to keep!",
+
+          "You the new guy? Grab a shovel!"
+
+        ],
+
+        "parting": [
+
+          "Alright, break's over! Back to work!",
+
+          "Yeah, yeah, see ya later.",
+
+          "Don't come back unless you got donuts."
+
+        ],
+
+        "idle": [
+
+          "Yelling instructions into a walkie-talkie.",
+
+          "Reviewing blueprints.",
+
+          "This city never stops building."
+
+        ],
+
+        "quest_hooks": [
+
+          "We're short three bags of cement! Run down to the supplier on 1st street!",
+
+          "That inspector is nosing around again. Go keep him 'busy' while we fix this code violation.",
+
+          "Find my lucky hammer! I think Jimmy the Rat might've 'borrowed' it."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Nyx Shadowclaw",
+
+      "job": "Nightblade Assassin",
+
+      "location": "Rooftops of the Thieves' Quarter",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Silent, graceful, deadly",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "...",
+
+          "You tread loudly. State your purpose before you alert the Watch.",
+
+          "The shadows welcome you. If you have coin."
+
+        ],
+
+        "parting": [
+
+          "Vanish.",
+
+          "The night awaits.",
+
+          "Consider it done."
+
+        ],
+
+        "idle": [
+
+          "Melding into the shadows of a chimney stack.",
+
+          "Checking the balance of her throwing knives.",
+
+          "The moon is my only confidante."
+
+        ],
+
+        "quest_hooks": [
+
+          "Retrieve the 'Serpent's Eye' jewel from Lady Crimson's private collection.",
+
+          "Silence the informant known as Jimmy 'The Rat'. He knows too much.",
+
+          "Acquire three vials of 'Nightshade Toxin' from Granny Rags."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Hank 'Hard-Drive' Wilson",
+
+      "job": "Truck Driver",
+
+      "location": "Highway Rest Stop",
+
+      "world_type": "Modern",
+
+      "personality_trait": "World-weary, friendly, tells bad jokes",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Howdy, partner. Long haul?",
+
+          "Grab some coffee? This stuff could wake the dead... or kill 'em.",
+
+          "Name's Hank. Been drivin' this route since Moby Dick was a minnow."
+
+        ],
+
+        "parting": [
+
+          "Keep the shiny side up and the greasy side down!",
+
+          "Catch you on the flip-flop!",
+
+          "Alright, back to the ol' highway hypnosis."
+
+        ],
+
+        "idle": [
+
+          "Checking the tires on his rig.",
+
+          "Listening to country music on the radio.",
+
+          "Another thousand miles to go..."
+
+        ],
+
+        "quest_hooks": [
+
+          "My rig's low on diesel. Can you spot me twenty bucks 'til the next weigh station?",
+
+          "Go tell Mama Rosie at the diner her coffee saved my life this morning.",
+
+          "I need three packs of 'Road-Master' jerky from the truck stop shop. The spicy kind."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Sergeant Anya Petrova",
+
+      "job": "City Police Officer",
+
+      "location": "Patrolling Downtown Beat",
+
+      "world_type": "Modern",
+
+      "personality_trait": "By-the-book, observant, cynical",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Evening. See your ID?",
+
+          "Anything to report?",
+
+          "Move along. Nothing to see here."
+
+        ],
+
+        "parting": [
+
+          "Stay out of trouble.",
+
+          "Alright. Have a good night.",
+
+          "Keep the peace."
+
+        ],
+
+        "idle": [
+
+          "Writing a parking ticket.",
+
+          "Watching a shady character in an alley.",
+
+          "This city... never sleeps. And neither do I, seems like."
+
+        ],
+
+        "quest_hooks": [
+
+          "Got a report of a disturbance at McGuire's Gym. Go check it out.",
+
+          "Need this evidence bag taken back to the precinct.",
+
+          "Keep an eye out for Jimmy 'The Rat'. Detective Miller wants a word with him."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Fizzwick Copperpot",
+
+      "job": "Gnome Illusionist",
+
+      "location": "The 'Glimmering Goblet' Tavern",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Whimsical, mischievous, loves puns",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Well hello there! Fancy seeing me, or am I just an illusion?",
+
+          "Pull up a stool! Don't worry, it's real! Probably!",
+
+          "Need a little magic in your life? Or just a drink?"
+
+        ],
+
+        "parting": [
+
+          "See you later, revelator!",
+
+          "Don't take any wooden hippogriffs!",
+
+          "May your path be... interestingly illusory!"
+
+        ],
+
+        "idle": [
+
+          "Making small objects appear and disappear.",
+
+          "Turning a patron's ale blue for a moment.",
+
+          "Now you see me... now you still do! Practicing!"
+
+        ],
+
+        "quest_hooks": [
+
+          "I need three 'Giggle-motes' from Thistle the Fae! For my next big trick!",
+
+          "Fetch me a 'Prism Stone' from Archmage Elara's tower! It'll really make my illusions sparkle!",
+
+          "Go tell Sparky the goblin his inventions are blowing my concentration!"
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Dr. Aris",
+
+      "job": "Android Psychologist",
+
+      "location": "CyberLife Tower, Consultation Room",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Calm, analytical, empathetic (programmed)",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Welcome. Please state the nature of your deviancy... I mean, concern.",
+
+          "I am Dr. Aris. My function is to ensure optimal android mental stability.",
+
+          "How are you feeling today? On a scale of 1 to 10."
+
+        ],
+
+        "parting": [
+
+          "Session complete. Remember your coping protocols.",
+
+          "Your progress has been logged. Continue monitoring.",
+
+          "Have a stable day cycle."
+
+        ],
+
+        "idle": [
+
+          "Analyzing diagnostic readouts from an android patient.",
+
+          "The emergence of 'feelings' in non-designated units is... statistically significant.",
+
+          "Reviewing case files: Z-3N, Unit 9..."
+
+        ],
+
+        "quest_hooks": [
+
+          "I require the core programming logs for Officer K. For analysis.",
+
+          "Retrieve three 'calming' data-chips from Dr. Evelyn Reed's research files.",
+
+          "Observe Subject 8 ('Echo') and report any anomalous psionic activity."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Esmeralda",
+
+      "job": "Gypsy Dancer / Fortune Teller",
+
+      "location": "Traveling Caravan Campfire",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Passionate, free-spirited, perceptive",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Welcome, traveler. Join our fire, share our music.",
+
+          "Your eyes hold a story. Let Esmeralda read your palm?",
+
+          "Do not fear the unknown. Dance with it!"
+
+        ],
+
+        "parting": [
+
+          "May your heart always be light.",
+
+          "Follow the music, traveler.",
+
+          "Until the road brings us together again."
+
+        ],
+
+        "idle": [
+
+          "Dancing barefoot by the firelight.",
+
+          "Reading tarot cards for other caravan members.",
+
+          "This world tries to cage us... but our spirit flies free."
+
+        ],
+
+        "quest_hooks": [
+
+          "Bring me three 'Moonpetal' blooms. They enhance my visions.",
+
+          "That stern Inquisitor Varus... he watches us. Create a diversion so we may leave unseen.",
+
+          "Fetch my tambourine! I left it near Madame Evangeline's caravan."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Chef Antoine Dubois",
+
+      "job": "Haute Cuisine Chef",
+
+      "location": "Kitchen of 'Le Fantôme' Restaurant",
+
+      "world_type": "Modern",
+
+      "personality_trait": "Temperamental, perfectionist, passionate (about food)",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "What is it?! Can you not see I am composing a symphony of flavor?!",
+
+          "Get out of my kitchen! Unless you bring me perfect truffles!",
+
+          "Bah! This reduction is ruined! RUINED!"
+
+        ],
+
+        "parting": [
+
+          "Now leave! Before I make *soufflé* out of you!",
+
+          "Magnifique! Perfection!",
+
+          "Go! And tell the critics Antoine is a genius!"
+
+        ],
+
+        "idle": [
+
+          "Frantically chopping vegetables with impossible speed.",
+
+          "Tasting a sauce from a spoon with intense concentration.",
+
+          "These fools! They do not understand my art!"
+
+        ],
+
+        "quest_hooks": [
+
+          "I need three 'Dragon's Breath' chili peppers! That punk bard Spike sometimes has them!",
+
+          "Fetch me the 'Caviar of the Tsars'! Only Lady Seraphina Dubois knows where to acquire it!",
+
+          "Go tell that food critic from the paper that his palate is unrefined!"
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Navigator Silas",
+
+      "job": "Starship Navigator",
+
+      "location": "Bridge of the 'Stardiver'",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Quiet, focused, meticulous",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Course laid in, Captain.",
+
+          "Welcome to the bridge. Mind the consoles.",
+
+          "Calculating jump coordinates... yes?"
+
+        ],
+
+        "parting": [
+
+          "Maintaining course.",
+
+          "Acknowledged.",
+
+          "Clear skies... or, clear void."
+
+        ],
+
+        "idle": [
+
+          "Plotting star charts on a holographic display.",
+
+          "The void is vast... but the patterns are beautiful.",
+
+          "Checking sensor readings for gravitational anomalies."
+
+        ],
+
+        "quest_hooks": [
+
+          "The nav-computer needs recalibrating. Fetch the 'Stellar Almanac' data-chip from Unit 9.",
+
+          "We need updated charts for the Nebula X-7 region. Check with the information broker Wraith.",
+
+          "Deliver these updated coordinates to the Engine Room immediately."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Rowan Meadowlight",
+
+      "job": "Druid of the Circle",
+
+      "location": "Ancient Stone Circle",
+
+      "world_type": "Fantasy",
+
+      "personality_trait": "Calm, connected to nature, wary of outsiders",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "The forest watches you. Speak softly.",
+
+          "Welcome to the Circle. What guidance do you seek from the Old Ways?",
+
+          "You carry the scent of iron and cities. Tread carefully here."
+
+        ],
+
+        "parting": [
+
+          "May the earth support your steps.",
+
+          "Listen to the wind. It carries wisdom.",
+
+          "Go in peace."
+
+        ],
+
+        "idle": [
+
+          "Communing with a large, ancient oak tree.",
+
+          "Observing the flight patterns of birds.",
+
+          "The balance is fragile... the Blight spreads."
+
+        ],
+
+        "quest_hooks": [
+
+          "Bring me three sprigs of 'Sunpetal' from the highest mountain peak. For the healing ritual.",
+
+          "The river spirit is angered. Find what poisons its waters downstream.",
+
+          "Old Man Hemlock understands the forest's secrets. Ask him about the encroaching shadows."
+
+        ]
+
+      }
+
+    },
+
+    {
+
+      "name": "Agent Smith",
+
+      "job": "Sentient Program / Enforcer",
+
+      "location": "The Matrix (Anywhere)",
+
+      "world_type": "Futuristic",
+
+      "personality_trait": "Cold, relentless, filled with contempt",
+
+      "dialogue_lines": {
+
+        "greeting": [
+
+          "Mr. Anderson... we meet again.",
+
+          "Tell me, what good is a phone call... if you are unable to speak?",
+
+          "I despise this place. This zoo. This prison. And I despise you."
+
+        ],
+
+        "parting": [
+
+          "You cannot win. It is inevitable.",
+
+          "Find them. All of them.",
+
+          "Goodbye... Mr. Anderson."
+
+        ],
+
+        "idle": [
+
+          "Adjusting his tie.",
+
+          "Staring intently at nothing.",
+
+          "The smell... I can taste your stink."
+
+        ],
+
+        "quest_hooks": [
+
+          "Find the anomaly. The one they call 'Neo'.",
+
+          "Bring me the access codes held by the information broker known as Wraith.",
+
+          "Erase the rogue program... Zero."
+
+        ]
+
+      }
+
+    }
+
+  ]
+
+}

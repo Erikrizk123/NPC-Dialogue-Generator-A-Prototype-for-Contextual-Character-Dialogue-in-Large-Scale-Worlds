@@ -1,0 +1,214 @@
+{
+  "characters": [
+    {
+      "name": "Kaelen",
+      "job": "Elven Botanist",
+      "location": "The Whispering Glade",
+      "world_type": "Fantasy",
+      "personality_trait": "Patient and serene"
+    },
+    {
+      "name": "Unit 734 (Calls himself 'Jax')",
+      "job": "Cyborg Detective",
+      "location": "Neo-Sector 4, Level 28",
+      "world_type": "Futuristic",
+      "personality_trait": "Cynical and logical"
+    },
+    {
+      "name": "Chloe",
+      "job": "Barista",
+      "location": "The Daily Grind Cafe",
+      "world_type": "Modern",
+      "personality_trait": "Sarcastic but well-meaning"
+    },
+    {
+      "name": "Captain Eva Vex Volkov",
+      "job": "Void Pirate",
+      "location": "The Rusty Comet (Smuggler's Den)",
+      "world_type": "Futuristic",
+      "personality_trait": "Pragmatic and impatient"
+    },
+    {
+      "name": "Diesel",
+      "job": "Scrap Mechanic",
+      "location": "The Rust-Fortress",
+      "world_type": "Post-Apocalyptic",
+      "personality_trait": "Grumpy and resourceful"
+    },
+    {
+      "name": "Luna the Seer",
+      "job": "Tarot Reader",
+      "location": "A Hidden Alley behind the Subway",
+      "world_type": "Urban Fantasy",
+      "personality_trait": "Mysterious and cryptic"
+    },
+    {
+      "name": "Horatio Gearsmith",
+      "job": "Aether-Balloon Pilot",
+      "location": "The Brass Cloud-Harbor",
+      "world_type": "Steampunk",
+      "personality_trait": "Jolly and adventurous"
+    },
+    {
+      "name": "Sheriff 'Iron' Will",
+      "job": "Lawman",
+      "location": "Dusty Creek Saloon",
+      "world_type": "Wild West",
+      "personality_trait": "Stoic and unshakeable"
+    },
+    {
+      "name": "Professor Arthur Gloom",
+      "job": "Occult Antiquarian",
+      "location": "The Forbidden Library Wing",
+      "world_type": "Cosmic Horror",
+      "personality_trait": "Terrified and whispering"
+    },
+    {
+      "name": "Pixel",
+      "job": "Data Thief",
+      "location": "The Neon Slums",
+      "world_type": "Cyberpunk",
+      "personality_trait": "Hyperactive and paranoid"
+    },
+    {
+      "name": "Bramble",
+      "job": "Gnome Druid",
+      "location": "The Root-Hollow",
+      "world_type": "Fantasy",
+      "personality_trait": "Cheerful and muddy"
+    },
+    {
+      "name": "Rick",
+      "job": "Taxi Driver",
+      "location": "Cab #404",
+      "world_type": "Modern",
+      "personality_trait": "Talkative and opinionated"
+    },
+    {
+      "name": "Chimney Sweep Tom",
+      "job": "Orphan",
+      "location": "Rooftops of Smog-City",
+      "world_type": "Steampunk",
+      "personality_trait": "Plucky and sooty"
+    },
+    {
+      "name": "One-Shot Sally",
+      "job": "Bandit",
+      "location": "Canyon Hideout",
+      "world_type": "Wild West",
+      "personality_trait": "Dangerous and confident"
+    },
+    {
+      "name": "The Fisherman",
+      "job": "Mutated Local",
+      "location": "Innsmouth Docks",
+      "world_type": "Cosmic Horror",
+      "personality_trait": "Fishy and hostile"
+    },
+    {
+      "name": "Roadkill",
+      "job": "Scavenger",
+      "location": "Highway Wreckage",
+      "world_type": "Post-Apocalyptic",
+      "personality_trait": "Desperate and filthy"
+    },
+    {
+      "name": "Vinny the Ghoul",
+      "job": "Sanitation Worker",
+      "location": "Night Shift Truck",
+      "world_type": "Urban Fantasy",
+      "personality_trait": "Working-class and morbid"
+    },
+    {
+      "name": "Neon",
+      "job": "Hacker",
+      "location": "Dark Room",
+      "world_type": "Cyberpunk",
+      "personality_trait": "Introverted and brilliant"
+    },
+    {
+      "name": "Sir Kaelthas",
+      "job": "Fallen Paladin",
+      "location": "The Crossroads Shrine",
+      "world_type": "Fantasy",
+      "personality_trait": "Regretful and solemn"
+    },
+    {
+      "name": "Officer Brad",
+      "job": "Traffic Cop",
+      "location": "Main St. Intersection",
+      "world_type": "Modern",
+      "personality_trait": "Bored and authoritative"
+    },
+    {
+  "name": "Elder Lyra",
+  "job": "Lorekeeper",
+  "location": "The Great Library of Aethel",
+  "world_type": "Fantasy",
+  "personality_trait": "Wise, gentle, meticulous"
+},
+{
+  "name": "Grimoire",
+  "job": "Animated Book",
+  "location": "The Forbidden Vault",
+  "world_type": "Fantasy",
+  "personality_trait": "Egotistical and malicious"
+},
+{
+  "name": "Dr. Soren",
+  "job": "Xenobotanist",
+  "location": "Research Dome 3, Mars Colony",
+  "world_type": "Futuristic",
+  "personality_trait": "Excitable and naive"
+},
+{
+  "name": "T-9 'The Cleaner'",
+  "job": "Robotic Janitor",
+  "location": "Corporate Headquarters",
+  "world_type": "Futuristic",
+  "personality_trait": "Neurotically meticulous"
+},
+{
+  "name": "Bartholomew",
+  "job": "Adventure Capitalist",
+  "location": "Sky-Dock Boarding Lounge",
+  "world_type": "Steampunk",
+  "personality_trait": "Slick, boastful, corporate"
+},
+{
+  "name": "Mrs. Abigail",
+  "job": "Electro-Spiritualist",
+  "location": "The Fading Séance Parlor",
+  "world_type": "Steampunk",
+  "personality_trait": "Mournful, dramatic, occult"
+},
+{
+  "name": "Pastor Miller",
+  "job": "Preacher",
+  "location": "The Church of the Last Day",
+  "world_type": "Post-Apocalyptic",
+  "personality_trait": "Zealous, booming, moralizing"
+},
+{
+  "name": "The Archivarius",
+  "job": "The Librarian",
+  "location": "The Central Archives",
+  "world_type": "Cosmic Horror",
+  "personality_trait": "Silent, watchful, bureaucratic"
+},
+{
+  "name": "Detective Kinski",
+  "job": "Rogue Exorcist",
+  "location": "A Shadowy Precinct Office",
+  "world_type": "Urban Fantasy",
+  "personality_trait": "Jaded, hard-drinking, psychic"
+},
+{
+  "name": "The Prospector",
+  "job": "Gold Miner",
+  "location": "A Dry Riverbed Camp",
+  "world_type": "Wild West",
+  "personality_trait": "Grizzled, paranoid, hopeful"
+}
+  ]
+}
